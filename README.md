@@ -8,7 +8,7 @@ _제품 자료를 순차적으로 추가합니다._
 
 ## 유스케이스
 
-[Persona별·Insight Type별 유스케이스 보기 →](use-cases/README.md)
+[페르소나별·인사이트 유형별 유스케이스 보기 →](use-cases/README.md)
 
 ## 아티클
 
@@ -20,4 +20,4 @@ _릴리즈 노트를 순차적으로 추가합니다._
 
 ---
 
-문의 사항이나 추가 정보가 필요하면 **support@reflexivity.com**으로 연락해 주세요.
+문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
