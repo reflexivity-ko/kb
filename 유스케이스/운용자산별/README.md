@@ -6,9 +6,9 @@ Reflexivity의 리서치 및 워크플로 예시를 주요 운용자산과 시�
 
 ## 자산군
 
-- [FX](FX/README.md)
+- [FX](FX/README.md) — 영문 canonical 기준 3개 페이지 동기화 완료
 
-영문 canonical 페이지의 검증이 끝난 순서대로 다른 자산군도 추가합니다.
+나머지 자산군도 영문 canonical 페이지를 기준으로 검증된 묶음부터 순차 동기화합니다.
 
 ---
 
