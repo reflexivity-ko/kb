@@ -10,9 +10,9 @@ Reflexivity의 리서치 및 워크플로 예시를 주요 운용자산과 시�
 - [채권](채권/README.md) — 영문 canonical 기준 6개 페이지 동기화 완료
 - [매크로](매크로/README.md) — 영문 canonical 기준 7개 페이지 동기화 완료
 - [주식](주식/README.md) — 영문 canonical 기준 8개 페이지 동기화 완료
-- [멀티에셋](멀티에셋/README.md) — 첫 3개 페이지 동기화, 검증 진행 중
+- [멀티에셋](멀티에셋/README.md) — 영문 canonical 기준 10개 페이지 동기화 완료
 
-멀티에셋의 남은 페이지도 영문 canonical 문서를 기준으로 검증된 묶음부터 순차 동기화합니다.
+영문 canonical의 현재 reviewed asset-class surface를 한국어로 모두 동기화했습니다. 동일한 본문을 여러 자산군 폴더에 복제하지 않고 stable ID와 링크를 기준으로 관리합니다.
 
 ---
 
