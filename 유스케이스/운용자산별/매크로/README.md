@@ -7,6 +7,10 @@
 - [‘미국 경제가 강하다’는 가설을 반증 방향에서 검증하기](challenge-strong-us-economy-thesis.md) — `RX-USECASE-0035`
 - [시장 내러티브가 폭넓은 실데이터로 지지되는지 검증하기](market-narrative-vs-hard-data-breadth.md) — `RX-USECASE-0036`
 - [장문 지시문으로 복잡한 리서치를 구조화하기](structured-long-form-research-prompts.md) — `RX-USECASE-0039`
+- [FOMC 회의 전에 금리인상 시나리오를 구조화하기](fomc-rate-hike-scenarios.md) — `RX-USECASE-0041`
+- [이번 주 미국 시장 이벤트를 영향도 순으로 우선순위화하기](weekly-us-market-events.md) — `RX-USECASE-0042`
+- [Market Catalyst로 Beige Book을 우선순위화해 읽기](beige-book-market-catalyst-workflow.md) — `RX-USECASE-0049`
+- [Jackson Hole 연설 시나리오와 시장 반응을 사전에 구조화하기](jackson-hole-scenario-analysis.md) — `RX-USECASE-0060`
 
 ## 관련 크로스에셋 유스케이스
 
@@ -18,7 +22,7 @@
 - [주요국 10년 국채 금리의 1년 변화를 비교하기](../채권/global-10y-government-yields.md) — `RX-USECASE-0040`
 - [급격한 엔화 강세의 배경과 다른 통화로의 확산 여부 분석하기](../FX/yen-strength-background-outlook.md) — `RX-USECASE-0044`
 
-영문 canonical 문서를 기준으로 stable ID, 수치, 날짜, 불확실성, 출처 구분을 유지하면서 한국어로 현지화합니다. 현재 첫 매크로 묶음까지 검증 대상으로 반영했습니다.
+영문 canonical 문서를 기준으로 현재 검토된 매크로 7개 페이지를 모두 한국어로 동기화했습니다. stable ID, 수치, 날짜, 한계, 불확실성, 출처 구분을 유지합니다.
 
 ---
 
