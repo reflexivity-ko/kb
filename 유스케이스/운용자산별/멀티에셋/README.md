@@ -9,9 +9,13 @@
 - [유가 급등을 국면별로 비교하고 섹터 영향까지 추적하기](oil-price-surge-regime-comparison.md) — `RX-USECASE-0045`
 - [Robinhood와 Bitcoin의 가격 관계를 검증하기](robinhood-bitcoin-correlation.md) — `RX-USECASE-0050`
 - [하이퍼스케일러의 부외 의무를 분석하기](hyperscaler-off-balance-sheet-debt.md) — `RX-USECASE-0052`
+- [미국 장기금리 상승이 일본시장에 전달되는 경로 추적하기](us-rates-impact-on-japan.md) — `RX-USECASE-0054`
+- [Market Catalyst로 뉴스를 테마·국가·기업까지 연결하기](market-catalyst-news-to-themes-countries-companies.md) — `RX-USECASE-0055`
+- [주택·귀금속·주식·신용위험을 Alfred에서 크로스에셋으로 조사하기](alfred-cross-asset-question-examples.md) — `RX-USECASE-0058`
+- [이란 공격 시나리오의 크로스에셋 영향을 분석하기](iran-attack-cross-asset-impact.md) — `RX-USECASE-0059`
 - [오늘의 뉴스플로에서 추가 조사할 투자 아이디어 5개 만들기](newsflow-top-five-investment-ideas.md) — `RX-USECASE-0061`
 
-영문 canonical 문서를 기준으로 stable ID, 수치, 날짜, 한계, 출처 구분을 유지하면서 한국어로 현지화합니다. 현재 두 번째 멀티에셋 묶음까지 반영했습니다.
+영문 canonical의 현재 reviewed Multi-Asset surface를 한국어로 모두 동기화했습니다. stable ID, 수치, 날짜, 한계, 출처 구분, 시나리오 불확실성을 유지합니다.
 
 ---
 
