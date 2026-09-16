@@ -9,9 +9,9 @@ Reflexivity의 리서치 및 워크플로 예시를 주요 운용자산과 시�
 - [FX](FX/README.md) — 영문 canonical 기준 3개 페이지 동기화 완료
 - [채권](채권/README.md) — 영문 canonical 기준 6개 페이지 동기화 완료
 - [매크로](매크로/README.md) — 영문 canonical 기준 7개 페이지 동기화 완료
-- [주식](주식/README.md) — 첫 4개 페이지 동기화, 검증 진행 중
+- [주식](주식/README.md) — 영문 canonical 기준 8개 페이지 동기화 완료
 
-나머지 자산군과 주식의 남은 페이지도 영문 canonical 문서를 기준으로 검증된 묶음부터 순차 동기화합니다.
+남은 멀티에셋도 영문 canonical 문서를 기준으로 검증된 묶음부터 순차 동기화합니다.
 
 ---
 
