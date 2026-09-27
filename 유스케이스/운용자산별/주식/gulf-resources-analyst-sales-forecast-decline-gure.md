@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-3/gulf-resources-analyst-sales-forecast-decline-gure.md
+canonical_path: usecases/byasset/equities/gulf-resources-analyst-sales-forecast-decline-gure.md
 status: draft
 translation_status: review-needed
 -->
 
 # Gulf Resources: 애널리스트 매출 전망 하향 (GURE) — 약세 시그널
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 전망 하향 국면에서 역발상 매수 또는 숏 여부를 판단하
 
 ---
 
-[← Hedge Fund Tier 3](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
