@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/simon-property-group-mixed-print-guide-raised-spg.md
+canonical_path: usecases/byasset/equities/simon-property-group-mixed-print-guide-raised-spg.md
 status: draft
 translation_status: review-needed
 -->
 
 # Simon Property Group: 혼재된 실적, 가이던스 상향 (SPG) — 중립
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 가이던스 상향과 자본환원—배당 4.7% 인상해 $2.25, 자사�
 
 ---
 
-[← Hedge Fund Tier 2](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
