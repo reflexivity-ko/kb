@@ -12,6 +12,18 @@
 
 - [트럼프, 스페인과의 무역 관계 위협 (EWP)](trump-threatens-spain-trade-ties-ewp.md) — 2026-07-08 — 약세
 
+## 파트너 제공 리서치 사례
+
+아래 링크는 운용자산별 canonical 본문으로 연결됩니다. 제공자와 제공일을 함께 표시하며, 각 목록은 최신순입니다.
+
+- [FOMC 회의 전에 금리인상 시나리오를 구조화하기](../운용자산별/매크로/fomc-rate-hike-scenarios.md) — QUICK 제공 | 2026-09-15
+- [iPhone 출시 전후 AAPL 주가 패턴을 검증하기](../운용자산별/주식/iphone-launch-and-aapl-price-pattern.md) — QUICK 제공 | 2026-09-11
+- [급격한 엔화 강세의 배경과 다른 통화로의 확산 여부 분석하기](../운용자산별/FX/yen-strength-background-outlook.md) — QUICK 제공 | 2026-09-09
+- [이번 주 미국 시장 이벤트를 영향도 순으로 우선순위화하기](../운용자산별/매크로/weekly-us-market-events.md) — QUICK 제공 | 2026-09-08
+- [주요국 10년 국채 금리를 같은 기준으로 비교하기](../운용자산별/채권/global-10y-government-yields.md) — QUICK 제공 | 2026-09-01
+- [이란 공격 시나리오의 크로스에셋 영향을 분석하기](../운용자산별/멀티에셋/iran-attack-cross-asset-impact.md) — QUICK 제공 | 2026-03-02
+
+
 ---
 
 [← 전체 유스케이스](../README.md)
