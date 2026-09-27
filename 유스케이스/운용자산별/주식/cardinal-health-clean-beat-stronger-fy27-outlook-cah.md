@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
+canonical_path: usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
 status: draft
 translation_status: review-needed
 -->
 
 # Cardinal Health: 깔끔한 실적 상회와 더 강한 FY27 전망 (CAH) — 강세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ Cardinal Health는 EPS $2.91로 컨센서스를 20.25% 상회했고 FY2027 가�
 
 ---
 
-[← Hedge Fund Tier 2](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
