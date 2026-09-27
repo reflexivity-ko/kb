@@ -19,6 +19,8 @@ translation_status: review-needed
 
 # 트럼프, 스페인과의 무역 관계 위협 (EWP) — 약세
 
+[← Wealth Management / RIA](README.md) · [전체 유스케이스](../README.md)
+
 <div align="right">
 작성: Reflexivity GTM Team<br>
 초안: 2026-09-07<br>
@@ -50,6 +52,6 @@ Reflexivity는 수사와 정책을 분리합니다. 이를 확정된 무역정�
 
 ---
 
-[← Wealth Management / RIA](README.md) · [← 전체 유스케이스](../README.md)
+[← Wealth Management / RIA](README.md) · [전체 유스케이스](../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

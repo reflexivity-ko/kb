@@ -3,7 +3,6 @@ id: RX-USECASE-0054
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-20
 status: published
@@ -12,16 +11,16 @@ source_type: partner-provided-use-case
 asset_class: fixed income, equities, FX, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # 미국 장기금리 상승이 일본시장에 전달되는 경로 추적하기
 
-**저자:** QUICK Corporation  
-**제공일:** 2026-08-20  
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-08-20
 **주요 운용자산:** 채권, 주식, FX, 매크로, 멀티에셋
 
-> 이 페이지는 QUICK 제공 유스케이스를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 고객·수신자·서명·비공개 링크 정보는 제외했습니다. 시장 수준과 해석은 원 자료 시점의 스냅샷입니다.
+> 이 예시의 시장 수준과 해석은 제공일 당시의 스냅샷입니다.
 
-## 원 질문
+## 질문
 
 미국 장기금리가 오르고 있다. 이것이 일본 통화정책과 일본 경제에 어떤 영향을 줄 수 있으며, 은행·부동산·수출주 같은 테마에는 어떤 의미가 있는가?
 
@@ -35,7 +34,7 @@ publication_mode: faithful-source-preserving
 
 “미국 금리가 높다”에서 바로 섹터 결론으로 뛰지 않고 각 연결고리를 하나씩 검증하는 것이 목적입니다.
 
-## 원 자료 스냅샷
+## 시장 스냅샷
 
 | 지표 | 최신 | 1년 전 | 변화 |
 | --- | ---: | ---: | ---: |
@@ -64,7 +63,7 @@ publication_mode: faithful-source-preserving
 2. **일본 장기금리 상승** — 글로벌 듀레이션 압력과 국내 정상화가 서로 강화될 수 있음
 3. **양면적인 경제효과** — 수출·인바운드 관련 기업은 엔화 약세의 수혜를 볼 수 있지만 가계와 내수는 높은 수입비용 부담을 받을 수 있음
 
-## 원 자료 시점의 섹터 영향
+## 당시 섹터 영향
 
 | 테마 | 1년 수익률 | 1개월 수익률 | 원 자료의 금리 민감도 해석 |
 | --- | ---: | ---: | --- |
@@ -107,5 +106,9 @@ publication_mode: faithful-source-preserving
 해외 금리 충격을 금리차, 환율, 통화정책 반응, 국내 섹터 성과까지 연결하는 재사용 가능한 크로스에셋 워크플로입니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

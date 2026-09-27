@@ -19,6 +19,8 @@ translation_status: review-needed
 
 # PPG: 분기 배당을 $0.74로 인상 (PPG) — 강세
 
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
+
 <div align="right">
 작성: Reflexivity GTM Team<br>
 초안: 2026-09-07<br>
@@ -50,6 +52,6 @@ PM은 배당이 $0.71에서 $0.74로 인상됐고 이사회 승인, 8월 10일 �
 
 ---
 
-[← Long-only Asset Manager](README.md) · [← 전체 유스케이스](../README.md)
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

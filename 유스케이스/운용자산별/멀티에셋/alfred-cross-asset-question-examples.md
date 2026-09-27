@@ -3,7 +3,6 @@ id: RX-USECASE-0058
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-02-12
 status: published
@@ -12,18 +11,18 @@ source_type: partner-provided-use-case
 asset_class: equities, fixed income, commodities, crypto, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # 주택·귀금속·주식·신용위험을 Alfred에서 크로스에셋으로 조사하기
 
-**저자:** QUICK Corporation  
-**제공일:** 2026-02-12  
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-02-12
 **주요 운용자산:** 주식, 채권, 원자재, 암호자산, 매크로, 멀티에셋
 
-> 이 페이지는 QUICK이 제공한 여러 질문 예시를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 고객·수신자·서명·비공개 Conversation URL은 제외했습니다. 아래 수치 결과는 원 자료 시점의 출력입니다.
+> 이 예시는 Alfred에서 조사할 수 있는 질문의 폭을 보여줍니다. 수치 결과는 제공일 당시의 스냅샷입니다.
 
 ## 1. 미국 주택시장과 주식시장으로의 연결
 
-원 질문:
+**질문:**
 
 > 모기지 금리가 하락하고 있는데, 올해 주택시장이 미국 경제성장에 긍정적으로 기여할 수 있는가? 주식시장에는 어떤 의미가 있는가?
 
@@ -33,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 ## 2. 귀금속과 Bitcoin
 
-원 질문:
+**질문:**
 
 > 귀금속 가격과 Bitcoin의 관계를 분석해 주세요.
 
@@ -46,7 +45,7 @@ publication_mode: faithful-source-preserving
 
 ## 3. Caterpillar에서 시작해 일본 주식으로 테마 확장하기
 
-원 질문:
+**질문:**
 
 > Caterpillar(CAT)가 왜 오르고 있는가? 어떤 테마와 연결되며, 비슷한 동인에 노출된 일본 기업은 어디인가?
 
@@ -58,7 +57,7 @@ publication_mode: faithful-source-preserving
 
 ## 4. 미국 사모신용 스트레스와 크로스마켓 전달경로
 
-원 질문:
+**질문:**
 
 > 미국 사모부채 디폴트 우려가 나타나고 있다. 이것이 미국과 일본의 금리·주식시장에 어떤 영향을 줄 수 있는가?
 
@@ -79,5 +78,9 @@ publication_mode: faithful-source-preserving
 공통 패턴은 구체적인 질문에서 시작해 전달 메커니즘을 찾고, 다음에 검증해야 할 시장이나 엔티티를 선택하는 것입니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

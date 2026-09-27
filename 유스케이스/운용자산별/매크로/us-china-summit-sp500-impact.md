@@ -13,7 +13,6 @@ source_type: partner-provided-use-case
 asset_class: Macro, Equities
 publication_mode: faithful-source-preserving
 -->
-
 # 미중 정상회담 전후 S&P 500 움직임을 살펴보기
 
 [← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

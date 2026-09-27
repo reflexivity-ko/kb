@@ -3,7 +3,6 @@ id: RX-USECASE-0055
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-17
 status: published
@@ -12,14 +11,14 @@ source_type: partner-provided-use-case
 asset_class: equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Market Catalyst로 뉴스를 테마·국가·기업까지 연결하기
 
-**저자:** QUICK Corporation  
-**제공일:** 2026-08-17  
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-08-17
 **주요 운용자산:** 주식, 매크로, 멀티에셋
 
-> 이 페이지는 QUICK 제공 유스케이스를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 고객·수신자·서명·비공개 링크 정보는 제외했습니다.
+> 이 페이지는 제공일 당시의 워크플로 예시입니다.
 
 ## 언제 쓰는가
 
@@ -33,7 +32,7 @@ publication_mode: faithful-source-preserving
 
 목적은 요약에서 멈추지 않고 뉴스를 구조화된 후속 조사 큐로 바꾸는 것입니다.
 
-## 원 자료의 예시 이벤트 유형
+## 예시 이벤트 유형
 
 QUICK 자료에는 다음과 같은 예시가 포함되어 있었습니다.
 
@@ -84,5 +83,9 @@ Catalyst를 연 뒤 표시되는 downstream 엔티티는 **리서치 후보**로
 필터링한 시장 이벤트에서 가능한 전달경로를 추적하고, 그 경로를 구체적인 후속 리서치 대상으로 바꾸는 방법을 보여줍니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

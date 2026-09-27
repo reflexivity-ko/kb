@@ -3,7 +3,6 @@ id: RX-USECASE-0053
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-19
 status: published
@@ -13,15 +12,15 @@ asset_class: Fixed Income, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
 -->
-
 # 미국 30년 금리 상승을 일드커브 전체로 읽기
 
-**저자:** QUICK Inc.  
-**제공일:** 2026-08-19  
-**주요 운용자산:** 채권, 매크로  
-**예상 이용자:** Long-only Asset Manager, Hedge Fund Tier 1
+[← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-> 이 페이지는 QUICK Inc.가 제공한 유스케이스를 영문 canonical 문서를 기준으로 한국어로 현지화한 것입니다. 고객명, 수신자, 이메일 주소, 서명, 비공개 URL은 포함하지 않습니다. 수치와 시장 환경은 제공일 당시의 스냅샷입니다.
+**제공일:** 2026-08-19
+**주요 운용자산:** 채권, 매크로  
+**예상 이용자:** Long-only Asset Manager, 헤지펀드
+
+> 이 예시의 수치와 시장 환경은 제공일 당시의 스냅샷입니다.
 
 > 미국 30년 국채 금리가 상승하고 있습니다. 일드커브 전체에서는 어떤 변화가 일어나고 있습니까?
 
@@ -103,7 +102,7 @@ publication_mode: faithful-source-preserving
 
 정책금리가 안정적인데 장기금리가 계속 오르는 상황에서는 재정정책, 국채 공급, 인플레이션 기대, 텀프리미엄이 다음 확인 대상입니다.
 
-## 한계와 원 자료 기준
+## 한계와 리서치 기준
 
 - 국채 금리는 constant-maturity 연율화 금리이며 스프레드는 일관된 금리차로 계산합니다.
 - 변화폭은 일별 종가 기준으로 장중 움직임을 반영하지 않습니다.
@@ -115,5 +114,9 @@ publication_mode: faithful-source-preserving
 한 만기의 헤드라인 움직임을 전체 커브 분석으로 확장하고, 측정창의 차이를 구분하며, 과거 정책국면과 비교해 재정·공급·텀프리미엄 요인을 더 봐야 하는 시점을 찾는 방법을 보여줍니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

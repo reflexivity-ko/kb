@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # EUR/USD 투자 관점을 체계적인 체크리스트로 정리하기
 
+[← FX 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
 **저자:** Reflexivity Research  
 **주요 운용자산:** FX (EUR/USD)  
 **예상 이용자:** FX PM, 매크로 PM, 멀티에셋 투자자  

@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # ‘미국 경제가 강하다’는 가설을 반증 방향에서 검증하기
 
+[← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
 **저자:** Reflexivity Research  
 **주요 운용자산:** 매크로, 크로스에셋  
 **예상 이용자:** CIO, 매크로 PM, 멀티에셋 PM, 전략가  
@@ -85,7 +87,7 @@ publication_mode: faithful-source-preserving
 | 신용 | 아직 큰 스트레스 없음 | 대출·연체 데이터에 급격한 악화 없음 |
 | 금리 / 정책 전달 | 제약적 | 실질금리와 긴축의 지연효과가 부담 |
 
-## 원 자료의 확률가중 경기국면 평가
+## 확률가중 경기국면 평가
 
 - **경기 후반부: 50%**
 - **지속 가능한 성장: 30%**

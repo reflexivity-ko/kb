@@ -3,7 +3,6 @@ id: RX-USECASE-0040
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-01
 status: published
@@ -13,15 +12,15 @@ asset_class: Fixed Income, Macro
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
 publication_mode: faithful-source-preserving
 -->
-
 # 주요국 10년 국채 금리를 같은 기준으로 비교하기
 
-**저자:** QUICK Inc.  
-**제공일:** 2026-09-01  
-**주요 운용자산:** 채권, 매크로  
-**예상 이용자:** Long-only Asset Manager, Hedge Fund Tier 1, Wealth Management / RIA
+[← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-> 이 페이지는 QUICK Inc.가 제공한 유스케이스를 영문 canonical 문서를 기준으로 한국어로 현지화한 것입니다. 고객명, 수신자, 이메일 주소, 서명, 비공개 URL은 포함하지 않습니다. 수치와 시장 환경은 제공일 당시의 스냅샷입니다.
+**제공일:** 2026-09-01
+**주요 운용자산:** 채권, 매크로  
+**예상 이용자:** Long-only Asset Manager, 헤지펀드, Wealth Management / RIA
+
+> 이 예시의 수치와 시장 환경은 제공일 당시의 스냅샷입니다.
 
 > 일본을 포함한 주요국의 장기 국채 금리가 지난 1년 동안 어떻게 움직였는지 분석해 주세요.
 
@@ -50,7 +49,7 @@ publication_mode: faithful-source-preserving
 
 이 표는 서로 다른 두 질문을 의도적으로 분리합니다. 절대 금리가 가장 높은 나라는 영국이었지만, 1년 동안 금리 환경이 가장 크게 바뀐 나라는 일본이었습니다. 두 신호는 같지 않습니다.
 
-## 원 자료의 국가별 해석
+## 국가별 해석
 
 6개 시장이 모두 상승했다는 점을 확인한 다음에는 왜 변화폭이 달랐는지 봅니다.
 
@@ -60,7 +59,7 @@ publication_mode: faithful-source-preserving
 - **프랑스·이탈리아:** 독일 금리와 함께 상승했지만, 독일 대비 스프레드는 큰 주변국 리스크 재가격조정보다는 대체로 안정적인 것으로 설명됩니다.
 - **영국:** 비교 대상 주요국 중 가장 높은 금리를 유지했고, 끈적한 인플레이션이 주요 배경으로 제시됐습니다.
 
-## 원 자료의 결론
+## 결론
 
 원 자료는 절대 금리가 높은 미국·영국과, 절대 수준은 더 낮지만 1년 동안 상승한 일본·독일·프랑스·이탈리아를 대비합니다.
 
@@ -72,7 +71,7 @@ publication_mode: faithful-source-preserving
 
 다음 단계에서는 각국의 정책금리 전망, 인플레이션, 재정정책, 국채 발행, 관련 국가 간 스프레드를 추가할 수 있습니다. 이를 통해 글로벌 금리 상승의 공통 흐름이 지속되는지, 아니면 국가 간 상대가치 차이가 더 중요한 기회가 됐는지 확인할 수 있습니다.
 
-## 한계와 원 자료 기준
+## 한계와 리서치 기준
 
 - 2025-09-01~2026-08-31의 일별 국채 금리 시계열을 사용합니다.
 - 금리는 일관된 만기수익률 기준으로 표시합니다.
@@ -84,5 +83,9 @@ publication_mode: faithful-source-preserving
 단순한 국가별 금리 스냅샷을 넘어, 만기와 기간을 통일하고 수준과 변화폭을 분리한 뒤 글로벌 공통 움직임과 국가별 정책·매크로 차이를 구분하는 비교 리서치 과정을 보여줍니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

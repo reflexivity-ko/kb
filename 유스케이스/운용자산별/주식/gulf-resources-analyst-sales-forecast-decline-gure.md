@@ -19,7 +19,7 @@ translation_status: review-needed
 
 # Gulf Resources: 애널리스트 매출 전망 하향 (GURE) — 약세 시그널
 
-[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
+[← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -29,7 +29,7 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 
 > **검토용 초안** — 2026년 8월 11일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
-**페르소나:** Hedge Fund Tier 3 (소규모·신생)  
+**페르소나:** 헤지펀드
 **인사이트 유형:** Scenario Insight  
 **시그널:** 약세
 
@@ -52,6 +52,6 @@ PM은 전망 하향 국면에서 역발상 매수 또는 숏 여부를 판단하
 
 ---
 
-[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
+[← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

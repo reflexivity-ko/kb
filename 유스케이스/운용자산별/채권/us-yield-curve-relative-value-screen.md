@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 
 # 미국 일드커브에서 스티프너·플래트너 후보 스크리닝하기
 
+[← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
 **저자:** Reflexivity Research  
 **주요 운용자산:** 채권(미국 금리)  
 **예상 이용자:** 채권 PM, 금리 운용자, 상대가치 운용자  

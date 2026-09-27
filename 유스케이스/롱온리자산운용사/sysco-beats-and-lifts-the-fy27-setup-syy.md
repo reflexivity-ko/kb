@@ -19,6 +19,8 @@ translation_status: review-needed
 
 # Sysco: 실적 상회와 FY27 셋업 상향 (SYY) — 강세
 
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
+
 <div align="right">
 작성: Reflexivity GTM Team<br>
 초안: 2026-09-07<br>
@@ -50,6 +52,6 @@ PM은 $2.1B 자유현금흐름, 2.7x 순레버리지, Jetro 딜 등 자본배분
 
 ---
 
-[← Long-only Asset Manager](README.md) · [← 전체 유스케이스](../README.md)
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

@@ -3,7 +3,6 @@ id: RX-USECASE-0059
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-03-02
 status: published
@@ -12,16 +11,16 @@ source_type: partner-provided-use-case
 asset_class: commodities, equities, FX, fixed income, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # 이란 공격 시나리오의 크로스에셋 영향을 분석하기
 
-**저자:** QUICK Corporation  
-**제공일:** 2026-03-02  
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-03-02
 **주요 운용자산:** 원자재, 주식, FX, 채권, 매크로, 멀티에셋
 
 > 이 페이지는 QUICK이 2026-03-02 제공한 **당시의 조건부 시나리오 분석**을 영문 canonical 기준으로 한국어로 현지화한 것입니다. 현재의 지정학 전망이나 투자 권고가 아닙니다. 유용한 부분은 출발점을 정하고, 단기·중기 전달경로를 분리하고, 과거 스트레스 사례로 범위를 보정하며, 시나리오를 바꿀 변수를 명시하는 리서치 구조입니다.
 
-## 원 질문
+## 질문
 
 > 미국과 이스라엘이 이란을 공격한다면 원유, 금, 주식, 미국 달러에 어떤 단기·중기 영향이 예상될 수 있는가?
 
@@ -40,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 **현재 가격반영 → 단기·중기 시나리오 → 과거 사례로 규모 보정 → 위험/수익 프레임 → 모니터링 변수**
 
-## 원 자료의 출발 시장환경
+## 출발 시장환경
 
 2026-02-26 기준 QUICK 제공 원 자료의 스냅샷은 다음과 같습니다.
 
@@ -52,7 +51,7 @@ publication_mode: faithful-source-preserving
 
 출발점을 먼저 정한 이유는 이미 크게 오른 자산과 아직 눌려 있는 자산에 같은 충격이 들어와도 추가 반응의 크기가 달라질 수 있기 때문입니다.
 
-## 원 자료의 단기·중기 시나리오 범위
+## 단기·중기 시나리오 범위
 
 | 자산 | 원 자료 시작 수준 | 1~7일 시나리오 | 1~6개월 시나리오 |
 | --- | ---: | --- | --- |
@@ -129,5 +128,9 @@ publication_mode: faithful-source-preserving
 지정학적 충격을 크로스에셋 리서치 프로세스로 바꾸면서 출발점, 시간축, 전달 메커니즘, 과거 규모 보정, 시나리오 무효화 조건을 명시적으로 유지하는 템플릿입니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

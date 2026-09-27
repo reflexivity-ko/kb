@@ -3,7 +3,6 @@ id: RX-USECASE-0050
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-24
 status: published
@@ -12,16 +11,16 @@ source_type: partner-provided-use-case
 asset_class: equities, crypto, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # Robinhood와 Bitcoin의 가격 관계를 검증하기
 
-**저자:** QUICK Corporation  
-**제공일:** 2026-08-24  
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-08-24
 **주요 운용자산:** 주식, 암호자산, 멀티에셋
 
-> 이 페이지는 QUICK 제공 유스케이스를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 고객·수신자·서명·비공개 링크 정보는 제외했습니다. 수치와 시장 관측은 원 자료 시점의 스냅샷입니다.
+> 이 예시의 수치와 시장 관측은 제공일 당시의 스냅샷입니다.
 
-## 원 질문
+## 질문
 
 > @HOOD와 Bitcoin 가격의 상관관계를 분석해 주세요.
 
@@ -40,7 +39,7 @@ publication_mode: faithful-source-preserving
 
 즉 **시각적 동행 → 정량 상관 → 예외 → 경제적 해석** 순서로 봅니다.
 
-## 원 자료 스냅샷: 2025년 8월~2026년 8월
+## 시장 스냅샷: 2025년 8월~2026년 8월
 
 | 국면 | 시점 | HOOD | Bitcoin | 방향 |
 | --- | --- | --- | --- | --- |
@@ -98,5 +97,9 @@ QUICK 제공 리서치는 이 기간에 강한 양의 관계가 있었다고 설
 겉으로 보이는 크로스에셋 동행에서 출발해 수익률 기반 상관을 계산하고, 그 관계를 깨는 시기를 적극적으로 찾는 워크플로입니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

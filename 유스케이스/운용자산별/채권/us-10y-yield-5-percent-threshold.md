@@ -13,7 +13,6 @@ source_type: partner-provided-use-case
 asset_class: Fixed Income, Macro, Equities
 publication_mode: faithful-source-preserving
 -->
-
 # 미국 10년물 국채금리 5% 기준선을 지난 20년과 비교하기
 
 [← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

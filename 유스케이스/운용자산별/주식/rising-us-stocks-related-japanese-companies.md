@@ -13,7 +13,6 @@ source_type: partner-provided-use-case
 asset_class: Equities
 publication_mode: faithful-source-preserving
 -->
-
 # 상승한 미국 종목에서 관련 일본 기업을 찾기
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

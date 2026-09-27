@@ -19,6 +19,8 @@ translation_status: review-needed
 
 # Enerpac: SFE Group을 4.72억 달러에 인수 (EPAC) — 강세
 
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
+
 <div align="right">
 작성: Reflexivity GTM Team<br>
 초안: 2026-09-07<br>
@@ -50,6 +52,6 @@ Reflexivity는 이를 단기 성장 팝이 아니라 대차대조표와 신뢰�
 
 ---
 
-[← Long-only Asset Manager](README.md) · [← 전체 유스케이스](../README.md)
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

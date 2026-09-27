@@ -3,7 +3,6 @@ id: RX-USECASE-0051
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-05
 status: published
@@ -13,17 +12,17 @@ asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # S&P 500과 Russell 2000을 비교하고 소형주 주도주를 찾기
 
-**저자:** QUICK Inc.  
-**제공일:** 2026-08-05  
+[← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-08-05
 **주요 운용자산:** 주식  
-**예상 이용자:** 롱온리 자산운용사, 헤지펀드 Tier 2, 헤지펀드 Tier 3
+**예상 이용자:** 롱온리 자산운용사, 헤지펀드
 
-> QUICK 원 자료에는 리서치 질문과 비공개 Research 결과 링크만 제공되었습니다. 비공개 결과는 공개적으로 확인할 수 없습니다. 아래 워크플로 설명은 **질문의 리서치 논리를 이해하기 위한 편집상 보충이며, 이용할 수 없는 비공개 Research 출력의 재구성이 아닙니다.**
+> Research 결과가 제공되었지만 여기에는 공개하지 않습니다. 따라서 이 페이지는 결과 수치보다 재사용 가능한 리서치 워크플로에 초점을 맞춥니다.
 
-## 원 질문
+## 질문
 
 > 2026년 1월부터 현재까지 S&P 500과 Russell 2000의 성과를 비교·분석해 주세요. 그 다음 Russell 2000 구성종목 중 성과가 가장 좋은 5개를 찾고, 주가가 오른 이유를 설명해 주세요.
 
@@ -77,5 +76,9 @@ S&P 500과 Russell 2000을 같은 시작일과 종료일로 측정합니다. 기
 원 비공개 Research 결과를 재구성하지 않기 때문에, 이 페이지는 원 질문이 직접 뒷받침하는 재사용 가능한 분석 순서만 보여줍니다. 즉 **벤치마크 비교 → 주도주 추출 → 촉매 분석 → 시장 폭 해석**입니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

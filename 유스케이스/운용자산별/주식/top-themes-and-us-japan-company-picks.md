@@ -3,7 +3,6 @@ id: RX-USECASE-0047
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2025-12-26
 status: published
@@ -13,15 +12,15 @@ asset_class: Equities
 roles: Long-only Asset Manager, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # 강한 테마에서 미국·일본 기업 후보를 만들기
 
-**저자:** QUICK Inc.  
-**제공일:** 2025-12-26  
-**주요 운용자산:** 주식  
-**예상 이용자:** 롱온리 자산운용사, 헤지펀드 Tier 2, 헤지펀드 Tier 3
+[← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-> 이 페이지는 QUICK Inc.가 제공한 유스케이스를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 고객명, 수신자, 이메일 주소, 서명, 비공개 URL은 제외하고 원 질문, 후보 목록, 스크리닝 논리를 가능한 한 보존합니다. 아래 목록은 리서치 유니버스의 출발점이지 추천 종목 목록이 아닙니다.
+**제공일:** 2025-12-26
+**주요 운용자산:** 주식  
+**예상 이용자:** 롱온리 자산운용사, 헤지펀드
+
+> 이 후보 목록은 리서치 유니버스의 출발점이며 투자 추천 목록이 아닙니다.
 
 ## 이런 워크플로가 유용한 경우
 
@@ -39,7 +38,7 @@ publication_mode: faithful-source-preserving
 
 > 유전자 편집, 위성 기술, 우주 탐사, 구리 채굴, 금 생산 테마에 대해 각 카테고리별로 미국 3개, 일본 3개의 관련 조직을 나열해 주세요.
 
-## 원 자료의 후보 유니버스
+## 후보 유니버스
 
 ### 유전자 편집
 
@@ -120,7 +119,7 @@ publication_mode: faithful-source-preserving
 
 이렇게 해야 강한 테마가 곧바로 “매수 목록”으로 바뀌는 것을 막을 수 있습니다. 테마는 먼저 탐색 공간을 넓히고, 투자 제약조건과 펀더멘털이 그 공간을 다시 좁힙니다.
 
-## 원 자료 이미지 상태
+## 시각자료 상태
 
 검토 완료된 일본어 공개 페이지에는 이 유스케이스의 QUICK 원본 화면이 검증되어 있습니다. 아직 영문·한국어 저장소로 byte-preserving 방식으로 동기화되지 않았기 때문에 깨진 링크나 대체 이미지를 게시하지 않습니다.
 
@@ -129,5 +128,9 @@ publication_mode: faithful-source-preserving
 시장 주도 테마를 출발점으로 미국과 일본의 리서치 후보군을 만들고, 그 뒤 투자 가능성, 펀더멘털, 밸류에이션 필터를 적용하는 방법을 보여줍니다. 덜 뻔한 기업 후보를 발견하는 초기 탐색 단계에 유용합니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

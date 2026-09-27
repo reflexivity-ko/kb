@@ -19,7 +19,7 @@ translation_status: review-needed
 
 # 미국 AI 칩 수출 제한이 반도체에 충격 (SMH) — 약세
 
-[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
+[← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -29,7 +29,7 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 
 > **검토용 초안** — 2026년 8월 10일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
-**페르소나:** Hedge Fund Tier 1 (메가펀드형 포드)  
+**페르소나:** 헤지펀드
 **인사이트 유형:** Market Catalyst  
 **시그널:** 약세
 
@@ -52,6 +52,6 @@ PM은 움직임이 개별 종목이 아니라 광범위하다는 점을 즉시 �
 
 ---
 
-[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
+[← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

@@ -3,7 +3,6 @@ id: RX-USECASE-0039
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-06-18
 status: published
@@ -13,15 +12,15 @@ asset_class: Macro, Equities, Multi-Asset
 roles: Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2
 publication_mode: faithful-source-preserving
 -->
-
 # 장문 지시문으로 복잡한 리서치를 구조화하기
 
-**저자:** QUICK Inc.  
-**제공일:** 2026-06-18  
-**주요 운용자산:** 매크로, 주식, 멀티에셋  
-**예상 이용자:** 롱온리 자산운용사, 헤지펀드 Tier 1, 헤지펀드 Tier 2
+[← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-> 이 페이지는 QUICK Inc.가 제공한 유스케이스를 영문 canonical 문서에서 한국어로 현지화한 것입니다. 고객명, 수신자, 이메일 주소, 서명, 비공개 Conversation URL은 제외하고 원 자료의 프롬프트 예시와 의도를 가능한 한 그대로 보존합니다.
+**제공일:** 2026-06-18
+**주요 운용자산:** 매크로, 주식, 멀티에셋  
+**예상 이용자:** 롱온리 자산운용사, 헤지펀드
+
+> 이 예시는 재사용 가능한 장문 리서치 프롬프트 구조에 초점을 맞춥니다.
 
 ## 이런 접근이 유용한 경우
 
@@ -94,5 +93,9 @@ publication_mode: faithful-source-preserving
 복잡한 다단계 분석이 서로 무관한 사실의 모음으로 흩어지지 않고 최종 의사결정 질문과 연결되도록, 리서치 프로세스 자체를 프롬프트 안에서 설계하는 방법을 보여줍니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

@@ -12,6 +12,8 @@ source_text_status: localized_from_en_canonical
 
 # 오늘의 뉴스플로에서 추가 조사할 투자 아이디어 5개 만들기
 
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
 **저자:** Reflexivity Research  
 **주요 운용자산:** 멀티에셋, 매크로, 주식, 채권
 

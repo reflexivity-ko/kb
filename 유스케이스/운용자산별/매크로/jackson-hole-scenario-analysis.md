@@ -3,7 +3,6 @@ id: RX-USECASE-0060
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-08-21
 status: published
@@ -13,13 +12,13 @@ asset_class: Macro, Fixed Income, Equities, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1
 publication_mode: faithful-source-preserving
 -->
-
 # Jackson Hole 연설 시나리오와 시장 반응을 사전에 구조화하기
 
-**저자:** QUICK Inc.  
-**제공일:** 2026-08-21  
+[← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-08-21
 **주요 운용자산:** 매크로, 채권, 주식, FX  
-**예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드 Tier 1
+**예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드
 
 > 이 페이지는 2026년 8월 27~29일 Jackson Hole 심포지엄 전에 제공된 **사전 이벤트 시나리오 분석**을 영문 canonical 기준으로 한국어로 현지화한 것입니다. 현재 전망이나 사후적으로 결과를 맞춘 재구성이 아니라 이벤트 준비 사례로 읽어야 합니다.
 
@@ -35,7 +34,7 @@ Jackson Hole 같은 이벤트에서는 주요 연설자를 확인하는 것만�
 
 먼저 핵심 연설자와 다음 FOMC까지의 시간을 확인합니다. 이어 인플레이션과 고용, 시장 가격과 투자자 포지셔닝을 검토하고, 비둘기파·중립·매파 시나리오를 만든 뒤 과거 Jackson Hole 반응으로 이벤트 위험의 규모를 가늠합니다.
 
-## 원 자료에서 의장 발언이 중요했던 이유
+## 의장 발언이 중요했던 이유
 
 원 자료는 8월 27~29일 심포지엄 중 8월 28일로 예정된 Federal Reserve 의장의 keynote에 초점을 둡니다. 당시 컨퍼런스 주제는 **Financial Innovation: Implications for Payments and Policy**였습니다.
 
@@ -43,7 +42,7 @@ Jackson Hole 같은 이벤트에서는 주요 연설자를 확인하는 것만�
 
 원 자료가 설명한 거시 배경은 혼합적이었습니다. 인플레이션은 목표를 웃돌았고 노동시장 데이터는 약해져, 인플레이션 통제와 성장·고용 위험 사이의 긴장이 존재했습니다.
 
-## 이벤트 전 원 자료의 시장 가격반영
+## 이벤트 전 시장 가격반영
 
 원 자료는 9월 FOMC를 대략 다음과 같이 제시합니다.
 
@@ -121,5 +120,9 @@ Jackson Hole 같은 이벤트에서는 주요 연설자를 확인하는 것만�
 정책 이벤트를 “연설을 맞히는 문제”로 줄이지 않고, 왜 중요한지 확인하고, 대안 시나리오를 정의하고, 이미 반영된 기대와 포지셔닝을 측정하고, 과거 반응으로 위험 규모를 보정한 뒤 다음 정책결정으로 연결하는 방법을 보여줍니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

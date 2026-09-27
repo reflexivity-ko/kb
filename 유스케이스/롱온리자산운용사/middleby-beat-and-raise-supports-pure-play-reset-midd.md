@@ -19,6 +19,8 @@ translation_status: review-needed
 
 # Middleby: 실적 상회와 가이던스 상향이 pure-play 리셋을 지지 (MIDD) — 강세
 
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
+
 <div align="right">
 작성: Reflexivity GTM Team<br>
 초안: 2026-09-07<br>
@@ -50,6 +52,6 @@ Long-only PM은 이 하락을 자본배분 품질 점검으로 보고 pure-play 
 
 ---
 
-[← Long-only Asset Manager](README.md) · [← 전체 유스케이스](../README.md)
+[← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

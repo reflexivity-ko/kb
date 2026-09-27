@@ -3,7 +3,6 @@ id: RX-USECASE-0045
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-09-14
 status: published
@@ -12,16 +11,16 @@ source_type: partner-provided-use-case
 asset_class: commodities, equities, macro, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # 유가 급등을 국면별로 비교하고 섹터 영향까지 추적하기
 
-**저자:** QUICK Corporation  
-**제공일:** 2026-09-14  
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-09-14
 **주요 운용자산:** 원자재, 주식, 매크로, 멀티에셋
 
-> 이 페이지는 QUICK이 제공한 유스케이스를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 고객·수신자·서명·비공개 링크 정보는 제외했습니다. 시장 수준과 해석은 원 자료 시점의 스냅샷이며 현재 전망이 아닙니다.
+> 이 예시의 시장 수준과 해석은 당시의 스냅샷이며 현재 전망이 아닙니다.
 
-## 원 질문
+## 질문
 
 3월 미국·이란 충돌 이후의 유가 상승과 8월 이후의 상승은 동인이 어떻게 달랐으며, 높은 유가가 어떤 산업과 주요 기업에 영향을 주었는가?
 
@@ -111,5 +110,9 @@ QUICK 제공 원 자료는 3월 국면을 미국·이란 충돌과 걸프·호�
 겉으로 비슷한 원자재 상승을 원인별로 나누고, 그 차이가 섹터와 기업 민감도에 어떻게 전달되는지 추적하는 크로스에셋 프레임워크입니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

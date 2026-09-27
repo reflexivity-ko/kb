@@ -19,6 +19,8 @@ translation_status: review-needed
 
 # 미국 고용 부진으로 귀금속 로테이션 촉발 — 강세
 
+[← Wealth Management / RIA](README.md) · [전체 유스케이스](../README.md)
+
 <div align="right">
 작성: Reflexivity GTM Team<br>
 초안: 2026-09-07<br>
@@ -50,6 +52,6 @@ Reflexivity는 전달 경로를 보여줍니다. 7월 고용이 23,000명 감소
 
 ---
 
-[← Wealth Management / RIA](README.md) · [← 전체 유스케이스](../README.md)
+[← Wealth Management / RIA](README.md) · [전체 유스케이스](../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.

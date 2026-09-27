@@ -3,7 +3,6 @@ id: RX-USECASE-0042
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-08
 status: published
@@ -13,13 +12,13 @@ asset_class: Macro, Equities, Fixed Income, FX
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 2
 publication_mode: faithful-source-preserving
 -->
-
 # 이번 주 미국 시장 이벤트를 영향도 순으로 우선순위화하기
 
-**저자:** QUICK Inc.  
-**제공일:** 2026-09-08  
+[← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-09-08
 **주요 운용자산:** 매크로, 주식, 채권, FX  
-**예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드 Tier 2
+**예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드
 
 > 이 페이지는 QUICK Inc.가 제공한 유스케이스를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 수치, 컨센서스, 이벤트 시간은 제공일 당시의 스냅샷입니다. 핵심 가치는 당시 달력 자체보다 이벤트를 우선순위화하는 워크플로에 있습니다.
 
@@ -68,7 +67,7 @@ publication_mode: faithful-source-preserving
 - **에너지:** EIA 원유재고, EIA 단기 전망, OPEC·IEA 보고서, 천연가스 재고.
 - **포지셔닝 / 공급:** 주말 전후 CFTC 투기 포지션과 Baker Hughes 리그 수.
 
-## 원 자료의 요약
+## 요약
 
 원 자료는 **8월 CPI**를 가장 중요하게 두고, 그 다음으로 **PPI / 신규 실업수당 청구**, **미시간대 조사**를 둡니다. 인플레이션 민감 지표가 Fed 기대를 바꾸면 주식·금리·FX 변동성이 동시에 높아질 수 있는 반면, 하위 계층 이벤트는 특정 시장이나 섹터에 더 집중된다는 논리입니다.
 
@@ -90,5 +89,9 @@ publication_mode: faithful-source-preserving
 주간 매크로 캘린더를 **정책을 움직일 수 있는 이벤트 → 확인·반박 데이터 → 시장별 공급·섹터 입력** 순으로 정리해 실제 모니터링 계획으로 바꾸는 방법을 보여줍니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

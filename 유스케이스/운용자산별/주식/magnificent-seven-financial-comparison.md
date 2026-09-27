@@ -13,7 +13,6 @@ source_type: partner-provided-use-case
 asset_class: Equities, Fixed Income
 publication_mode: faithful-source-preserving
 -->
-
 # Magnificent Seven의 재무여력과 금리 내성을 비교하기
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

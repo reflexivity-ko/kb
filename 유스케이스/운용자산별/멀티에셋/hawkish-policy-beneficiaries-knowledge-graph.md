@@ -14,6 +14,8 @@ publication_mode: faithful-source-preserving
 
 # 매파적 정책의 수혜 경로를 거시 채널에서 기업까지 추적하기
 
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
 **저자:** Reflexivity Research  
 **주요 운용자산:** 주식, 채권, FX, 크로스에셋  
 **예상 이용자:** 매크로 PM, 멀티에셋 PM, 주식 PM  

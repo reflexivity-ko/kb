@@ -3,7 +3,6 @@ id: RX-USECASE-0052
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Corporation
 provider: QUICK Corporation
 provided: 2026-08-05
 status: published
@@ -12,16 +11,16 @@ source_type: partner-provided-use-case
 asset_class: equities, fixed income, multi-asset
 publication_mode: faithful-source-preserving
 -->
-
 # 하이퍼스케일러의 부외 의무를 분석하기
 
-**저자:** QUICK Corporation  
-**제공일:** 2026-08-05  
+[← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
+**제공일:** 2026-08-05
 **주요 운용자산:** 주식, 채권, 멀티에셋
 
-> 원 자료에는 비공개 Research 링크가 포함되어 있었습니다. 이 공개 페이지에서는 비공개 결과를 재구성하거나 추측하지 않고, 원 질문과 그 질문이 요구하는 분석 프레임워크만 보존합니다.
+> Research 결과가 제공되었지만 여기에는 공개하지 않습니다. 따라서 이 페이지는 결과 수치보다 재사용 가능한 리서치 프레임워크에 초점을 맞춥니다.
 
-## 원 질문
+## 질문
 
 > 미국 하이퍼스케일러의 부외부채를 요약해 주세요.
 
@@ -87,5 +86,9 @@ publication_mode: faithful-source-preserving
 비공개 Research 결과 자체는 재현하지 않습니다. 공개 유스케이스의 가치는 서로 다른 계약상 의무를 구분한 뒤 이를 주식과 신용위험에 연결하는 분석 구조에 있습니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

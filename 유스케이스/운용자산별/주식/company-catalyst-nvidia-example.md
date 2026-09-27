@@ -3,7 +3,6 @@ id: RX-USECASE-0057
 type: use-case
 language: ko
 locale: ko-KR
-author: QUICK Inc.
 provider: QUICK Inc.
 provided: 2026-09-04
 status: published
@@ -13,15 +12,15 @@ asset_class: Equities
 roles: Wealth Management / RIA, Long-only Asset Manager, Hedge Fund Tier 1, Hedge Fund Tier 2, Hedge Fund Tier 3
 publication_mode: faithful-source-preserving
 -->
-
 # Company Catalyst로 NVIDIA 관련 뉴스의 시장 영향을 추적하기
 
-**저자:** QUICK Inc.  
-**제공일:** 2026-09-04  
-**주요 운용자산:** 주식  
-**예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드 Tier 1, Tier 2, Tier 3
+[← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-> 이 페이지는 QUICK Inc.가 제공한 유스케이스를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 고객 정보, 이메일 메타데이터, 비공개 URL은 제외하고 원 자료의 리서치 순서와 제공일 당시 시장 맥락을 가능한 한 보존합니다.
+**제공일:** 2026-09-04
+**주요 운용자산:** 주식  
+**예상 이용자:** 웰스매니지먼트 / RIA, 롱온리 자산운용사, 헤지펀드, Tier 2, Tier 3
+
+> 이 예시의 시장 맥락은 제공일 당시의 스냅샷입니다.
 
 원 자료의 사례는 NVIDIA가 Hugging Face를 인수한다는 Company Catalyst 항목을 따라갑니다.
 
@@ -92,5 +91,9 @@ Company Catalyst는 헤드라인을 리서치 맵으로 바꿀 때 가장 유용
 기업 헤드라인에서 시작해 시장 반응과 경영진 설명을 확인하고, 경쟁·관계망·규제·지역별 결과까지 확장하되 헤드라인 자체를 최종 투자결론으로 취급하지 않는 리서치 방법을 보여줍니다.
 
 ---
+
+본 콘텐츠는 QUICK에서 제공한 자료입니다.
+
+국가·지역, 언어 환경, 이용 제품, 권한 및 데이터 제공 범위에 따라 이 예시를 그대로 재현하기 어려울 수 있습니다.
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

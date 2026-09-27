@@ -15,6 +15,8 @@ publication_mode: faithful-source-preserving
 
 # EUR/USD RSI 전략을 파라미터와 아웃오브샘플로 검증하기
 
+[← FX 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
+
 **저자:** Reflexivity Research  
 **주요 운용자산:** FX (EUR/USD)  
 **예상 이용자:** FX PM, 퀀트, 시스템 운용자  
