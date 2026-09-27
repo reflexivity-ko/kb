@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/mastec-1-65b-superior-data-center-deal-mtz.md
+canonical_path: usecases/byasset/equities/mastec-1-65b-superior-data-center-deal-mtz.md
 status: draft
 translation_status: review-needed
 -->
 
 # MasTec: 16.5억 달러 Superior / 데이터센터 딜 (MTZ) — 강세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 데이터센터와 전력 인프라 확장 테마를 빠르게 구성하�
 
 ---
 
-[← Hedge Fund Tier 2](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
