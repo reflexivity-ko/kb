@@ -2,11 +2,11 @@
 
 ## Hedge Fund Tier 2
 
-- [Cardinal Health: 깔끔한 실적 상회와 더 강한 FY27 전망 (CAH)](../헤지펀드Tier2/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md)
-- [Simon Property Group: 혼재된 실적, 가이던스 상향 (SPG)](../헤지펀드Tier2/simon-property-group-mixed-print-guide-raised-spg.md)
-- [TransDigm: 실적 상회와 전망 상향 (TDG)](../헤지펀드Tier2/transdigm-clean-beat-and-higher-outlook-tdg.md)
-- [UNH: Q2 실적 상회 및 가이던스 상향 (UNH)](../헤지펀드Tier2/unh-q2-beat-and-guidance-raise-unh.md)
-- [Root: 7월 8일 사업 업데이트 (ROOT)](../헤지펀드Tier2/root-jul-8-business-update-root.md)
+- [Cardinal Health: 깔끔한 실적 상회와 더 강한 FY27 전망 (CAH)](../운용자산별/주식/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md)
+- [Simon Property Group: 혼재된 실적, 가이던스 상향 (SPG)](../운용자산별/주식/simon-property-group-mixed-print-guide-raised-spg.md)
+- [TransDigm: 실적 상회와 전망 상향 (TDG)](../운용자산별/주식/transdigm-clean-beat-and-higher-outlook-tdg.md)
+- [UNH: Q2 실적 상회 및 가이던스 상향 (UNH)](../운용자산별/주식/unh-q2-beat-and-guidance-raise-unh.md)
+- [Root: 7월 8일 사업 업데이트 (ROOT)](../운용자산별/주식/root-jul-8-business-update-root.md)
 
 ## Long-only Asset Manager
 
