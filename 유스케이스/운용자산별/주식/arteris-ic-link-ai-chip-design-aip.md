@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-3/arteris-ic-link-ai-chip-design-aip.md
+canonical_path: usecases/byasset/equities/arteris-ic-link-ai-chip-design-aip.md
 status: draft
 translation_status: review-needed
 -->
 
 # Arteris / IC-Link: AI 칩 설계 (AIP) — 강세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 몇 분 안에 차별화된 소형주 관점을 만들 수 있고, 투자 
 
 ---
 
-[← Hedge Fund Tier 3](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
