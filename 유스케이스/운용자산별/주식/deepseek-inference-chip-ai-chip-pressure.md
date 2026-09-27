@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/deepseek-inference-chip-ai-chip-pressure.md
+canonical_path: usecases/byasset/equities/deepseek-inference-chip-ai-chip-pressure.md
 status: draft
 translation_status: review-needed
 -->
 
 # DeepSeek 추론 칩 / AI 칩 압박 — 약세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 대체 위험이 고멀티플 merchant GPU에 집중되는 반면, 다각�
 
 ---
 
-[← Hedge Fund Tier 1](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
