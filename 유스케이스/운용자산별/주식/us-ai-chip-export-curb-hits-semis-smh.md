@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/us-ai-chip-export-curb-hits-semis-smh.md
+canonical_path: usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md
 status: draft
 translation_status: review-needed
 -->
 
 # 미국 AI 칩 수출 제한이 반도체에 충격 (SMH) — 약세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 움직임이 개별 종목이 아니라 광범위하다는 점을 즉시 �
 
 ---
 
-[← Hedge Fund Tier 1](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
