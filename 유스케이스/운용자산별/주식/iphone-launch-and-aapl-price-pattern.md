@@ -24,6 +24,8 @@ publication_mode: faithful-source-preserving
 
 > 최근 5년간 신형 iPhone 발표와 AAPL 주가의 관계를 분석하고, 최신 Duo 발표에 대한 시장 반응도 분석해 주세요.
 
+![iPhone 출시 전후 AAPL 주가 움직임](../../../이미지/유스케이스/quick/RX-USECASE-0046/source-visuals.webp)
+
 ## 조사 목적
 
 한 번의 출시 후 주가 움직임만으로는 그 반응이 Apple 제품 이벤트의 전형적인 패턴인지, 이번 발표에만 특수한 것인지 판단하기 어렵습니다.
@@ -87,10 +89,6 @@ publication_mode: faithful-source-preserving
 3. 이번에 실제로 달라진 점을 찾는다.
 4. 긍정 해석을 공급, 마진, 기업 고유 위험과 대조한다.
 5. 실제 영업 데이터가 나오면 관점을 업데이트한다.
-
-## 시각자료 상태
-
-검토 완료된 일본어 공개 페이지에는 이 유스케이스의 QUICK 원본 visual이 검증되어 있습니다. 아직 영문·한국어 저장소로 byte-preserving 방식으로 동기화되지 않았으므로 이 페이지에서는 깨진 이미지나 대체 이미지를 게시하지 않습니다.
 
 ## 리서치 기준
 
