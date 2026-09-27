@@ -94,6 +94,8 @@ EUR/USD 현물을 대상으로 RSI만을 신호로 사용하는 2년 평균회�
 
 질문, 테스트 설계, 파라미터 탐색, 아웃오브샘플 반증, 한계, 그리고 무엇이 유지되지 않았는지에 대한 해석까지 포함한 재사용 가능한 리서치 과정을 보여줍니다.
 
+[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
+
 ---
 
 [← FX 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

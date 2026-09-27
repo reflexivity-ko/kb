@@ -85,6 +85,8 @@ Graph나 Sankey의 링크 폭은 **현금흐름, 이익 민감도, 기대수익�
 
 거시 정책 관점을 전달채널 → 섹터 → 개별 기업의 구조화된 연결로 바꾼 뒤, 그 후보를 더 깊은 펀더멘털 리서치로 넘기는 방법을 보여줍니다.
 
+[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

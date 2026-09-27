@@ -70,6 +70,8 @@ publication_mode: faithful-source-preserving
 
 표시 로직과 경제적 의미가 맞지 않을 때 리서치가 자신의 출력을 수정하는 과정을 보여줍니다. 재사용 가능한 순서는 **과거 위치 → 캐리/롤다운 → 통합 트레이드 판단 → 구성요소가 헤드라인 신호를 지지하지 않을 때 수정**입니다.
 
+[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

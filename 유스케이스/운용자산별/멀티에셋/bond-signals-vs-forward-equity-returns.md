@@ -66,6 +66,8 @@ publication_mode: faithful-source-preserving
 
 크로스에셋 직관을 측정 가능한 테스트로 바꾸고, 현재 관측치를 역사적 맥락에 놓은 뒤, 관계가 실제로 다음 단계에서 사용할 만큼 강한지 평가하는 방법을 보여줍니다.
 
+[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 멀티에셋 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

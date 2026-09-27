@@ -93,6 +93,8 @@ EUR/USD, EUR/CHF, EUR/JPY 숏을 후보로 제시하고, 손실을 제한하기 
 
 관찰된 국채-크레딧 이상 현상에서 출발해 금리, 크레딧, FX, 주식, 변동성, 베이시스 시장의 여러 표현으로 확장하면서, 각 표현의 실패 조건까지 함께 유지하는 리서치 과정을 보여줍니다.
 
+[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← 채권 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

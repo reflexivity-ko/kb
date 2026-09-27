@@ -94,6 +94,8 @@ publication_mode: faithful-source-preserving
 
 서로 독립적인 여러 증거군에서 내러티브의 폭을 측정하고, 강한 헤드라인 환경이 시장 내부나 경제 전반의 확인으로 이어지지 않는 상황을 찾는 방법을 보여줍니다.
 
+[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
+
 ---
 
 [← 매크로 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)

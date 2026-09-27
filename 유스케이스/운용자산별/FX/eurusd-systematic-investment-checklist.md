@@ -133,6 +133,8 @@ FX 관점을 한 가지 지표에만 고정하면 판단이 왜곡될 수 있습
 
 최종 방향성만이 아니라, 시작 질문, 데이터 층위, 지지·반증 증거, 명시적 가정, 시나리오, 관점을 바꾸는 조건까지 포함한 재사용 가능한 리서치 과정을 보여줍니다.
 
+[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
+
 ---
 
 [← FX 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
