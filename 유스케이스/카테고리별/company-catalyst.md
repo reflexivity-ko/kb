@@ -2,17 +2,17 @@
 
 ## Hedge Fund Tier 3
 
-- [ACV: VIPER 전국 출시로 딜러 소싱 확대 (ACVA)](../헤지펀드Tier3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
-- [Instacart: Arpalus 인수로 선반 인텔리전스 강화 (CART)](../헤지펀드Tier3/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
-- [Arteris / IC-Link: AI 칩 설계 (AIP)](../헤지펀드Tier3/arteris-ic-link-ai-chip-design-aip.md)
+- [ACV: VIPER 전국 출시로 딜러 소싱 확대 (ACVA)](../운용자산별/주식/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md)
+- [Instacart: Arpalus 인수로 선반 인텔리전스 강화 (CART)](../운용자산별/주식/instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md)
+- [Arteris / IC-Link: AI 칩 설계 (AIP)](../운용자산별/주식/arteris-ic-link-ai-chip-design-aip.md)
 
 ## Hedge Fund Tier 2
 
-- [MasTec: 16.5억 달러 Superior / 데이터센터 딜 (MTZ)](../헤지펀드Tier2/mastec-1-65b-superior-data-center-deal-mtz.md)
+- [MasTec: 16.5억 달러 Superior / 데이터센터 딜 (MTZ)](../운용자산별/주식/mastec-1-65b-superior-data-center-deal-mtz.md)
 
 ## Hedge Fund Tier 1
 
-- [Nvidia: 5,000억 달러 AI 인프라 자금조달 구상 (NVDA)](../헤지펀드Tier1/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
+- [Nvidia: 5,000억 달러 AI 인프라 자금조달 구상 (NVDA)](../운용자산별/주식/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md)
 
 ## Long-only Asset Manager
 
