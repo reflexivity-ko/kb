@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/ai-chip-de-rating-hits-semiconductor-etfs-smh.md
+canonical_path: usecases/byasset/equities/ai-chip-de-rating-hits-semiconductor-etfs-smh.md
 status: draft
 translation_status: review-needed
 -->
 
 # AI 칩 디레이팅이 반도체 ETF에 충격 (SMH) — 약세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ TSMC의 이익 77% 증가와 ASML의 가이던스 상향에도 그룹 하락이 
 
 ---
 
-[← Hedge Fund Tier 1](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
