@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md
+canonical_path: usecases/byasset/equities/nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md
 status: draft
 translation_status: review-needed
 -->
 
 # Nvidia: 5,000억 달러 AI 인프라 자금조달 구상 (NVDA) — 강세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ Nvidia는 Apollo, BlackRock, Blackstone, Brookfield와 5,000억 달러 규모의
 
 ---
 
-[← Hedge Fund Tier 1](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
