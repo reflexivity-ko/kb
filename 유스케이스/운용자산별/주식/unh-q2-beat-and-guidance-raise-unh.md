@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/unh-q2-beat-and-guidance-raise-unh.md
+canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
 status: draft
 translation_status: review-needed
 -->
 
 # UNH: Q2 실적 상회 및 가이던스 상향 (UNH) — 강세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 Q2 EPS $6.38 vs $4.85 예상, 매출 $112.03B vs $110.81B, 2026 EPS 가이
 
 ---
 
-[← Hedge Fund Tier 2](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
