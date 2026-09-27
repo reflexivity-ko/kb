@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/unh-q2-beat-and-guidance-raise-unh.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534
 -->
 
-# UNH: Q2 실적 상회 및 가이던스 상향 (UNH) — 강세
+# UNH: Q2 실적 상회 및 가이던스 상향 (UNH)
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** 헤지펀드<br>
+**인사이트 유형:** Earnings Catalyst<br>
+**시그널:** 강세<br>
+**날짜:** 2026-07-16
 
-> **검토용 초안** — 2026년 7월 16일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** 헤지펀드
-**인사이트 유형:** Earnings Catalyst  
-**시그널:** 강세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
 
@@ -47,8 +43,10 @@ Reflexivity는 이를 하루짜리 급등보다 마진 관리와 더 높은 이�
 
 PM은 Q2 EPS $6.38 vs $4.85 예상, 매출 $112.03B vs $110.81B, 2026 EPS 가이던스 $19.50~$20.00, 프리마켓 약 +6~7% 등 바로 행동에 쓸 수 있는 숫자를 확인해 포지션 규모를 정하고 관리의료 동종업체를 스크리닝할 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)
 
 ---
 

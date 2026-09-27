@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1
 -->
 
-# ACV: VIPER 전국 출시로 딜러 소싱 확대 (ACVA) — 중립
+# ACV: VIPER 전국 출시로 딜러 소싱 확대 (ACVA)
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** 헤지펀드<br>
+**인사이트 유형:** Company Catalyst<br>
+**시그널:** 중립<br>
+**날짜:** 2026-08-10
 
-> **검토용 초안** — 2026년 8월 10일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** 헤지펀드
-**인사이트 유형:** Company Catalyst  
-**시그널:** 중립
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
 
@@ -47,8 +43,10 @@ Reflexivity는 제품 출시와 실적 수치를 분리해 보여줍니다. VIPE
 
 PM은 몇 분 안에 투자 논리를 점검하고 매도세에 역행할지 기다릴지 판단할 수 있습니다. 핵심 모니터링 지표는 딜러 그룹 채택, 설치 대수, 서비스 레인 소싱이 마켓플레이스 거래량으로 얼마나 이어지는지입니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)
 
 ---
 

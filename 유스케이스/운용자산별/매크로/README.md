@@ -24,7 +24,6 @@
 - [주요국 10년 국채 금리의 1년 변화를 비교하기](../채권/global-10y-government-yields.md) — `RX-USECASE-0040`
 - [급격한 엔화 강세의 배경과 다른 통화로의 확산 여부 분석하기](../FX/yen-strength-background-outlook.md) — `RX-USECASE-0044`
 
-영문 canonical 문서를 기준으로 현재 검토된 매크로 7개 페이지를 모두 한국어로 동기화했습니다. stable ID, 수치, 날짜, 한계, 불확실성, 출처 구분을 유지합니다.
 
 ---
 

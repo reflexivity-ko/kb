@@ -23,7 +23,7 @@ publication_mode: faithful-source-preserving
 **예상 이용자:** CIO, 매크로 PM, 멀티에셋 PM, 전략가  
 **분석 유형:** 반증 분석, 투자 가설 검증, 시나리오 분석
 
-> 이 페이지는 영문 canonical 문서의 Reflexivity 리서치와 당시 관측치를 보존해 한국어로 현지화한 것입니다. 현재의 매크로 전망이 아니라 투자 가설을 검증하는 사례입니다.
+> 이 사례는 Reflexivity 리서치와 당시 관측치를 보존합니다. 현재의 매크로 전망이 아니라 투자 가설을 검증하는 사례입니다.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
 

@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/cardinal-health-clean-beat-stronger-fy27-outlook-cah.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7
 -->
 
-# Cardinal Health: 깔끔한 실적 상회와 더 강한 FY27 전망 (CAH) — 강세
+# Cardinal Health: 깔끔한 실적 상회와 더 강한 FY27 전망 (CAH)
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** 헤지펀드<br>
+**인사이트 유형:** Earnings Catalyst<br>
+**시그널:** 강세<br>
+**날짜:** 2026-08-11
 
-> **검토용 초안** — 2026년 8월 11일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** 헤지펀드
-**인사이트 유형:** Earnings Catalyst  
-**시그널:** 강세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)**
 
@@ -47,8 +43,10 @@ Cardinal Health는 EPS $2.91로 컨센서스를 20.25% 상회했고 FY2027 가�
 
 대형주 PM은 모델을 다시 구축하지 않고도 상향된 가이던스를 기준으로 포지션 규모를 판단하고, 제약 유통 마진의 지속성과 상대적으로 약한 의료제품 부문을 비교할 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)
 
 ---
 

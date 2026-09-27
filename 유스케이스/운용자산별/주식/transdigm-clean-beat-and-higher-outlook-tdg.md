@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/transdigm-clean-beat-and-higher-outlook-tdg.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec
 -->
 
-# TransDigm: 실적 상회와 전망 상향 (TDG) — 강세
+# TransDigm: 실적 상회와 전망 상향 (TDG)
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** 헤지펀드<br>
+**인사이트 유형:** Earnings Catalyst<br>
+**시그널:** 강세<br>
+**날짜:** 2026-08-04
 
-> **검토용 초안** — 2026년 8월 4일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** 헤지펀드
-**인사이트 유형:** Earnings Catalyst  
-**시그널:** 강세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)**
 
@@ -47,8 +43,10 @@ Q3 매출은 $2.74B(+3.0%), 조정 EPS는 $10.87(+7.1%)였고 FY26 가이던스�
 
 PM은 실적 발표 후 주가가 7.6% 오른 상태에서 상향분을 기준으로 포지션을 조정하면서, 애프터마켓 가격이 다시 17% 오른 것이 $1.07B 규모 Prince 및 Izant 통합 부담을 계속 상쇄하는지 볼 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)
 
 ---
 

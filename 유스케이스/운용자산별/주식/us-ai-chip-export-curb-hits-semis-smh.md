@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/us-ai-chip-export-curb-hits-semis-smh.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca
 -->
 
-# 미국 AI 칩 수출 제한이 반도체에 충격 (SMH) — 약세
+# 미국 AI 칩 수출 제한이 반도체에 충격 (SMH)
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** 헤지펀드<br>
+**인사이트 유형:** Market Catalyst<br>
+**시그널:** 약세<br>
+**날짜:** 2026-08-10
 
-> **검토용 초안** — 2026년 8월 10일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** 헤지펀드
-**인사이트 유형:** Market Catalyst  
-**시그널:** 약세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
 
@@ -47,8 +43,10 @@ Reflexivity는 이를 AI 칩 리스크 프리미엄을 다시 가격매기는 �
 
 PM은 움직임이 개별 종목이 아니라 광범위하다는 점을 즉시 파악하고 어디에 집중하거나 헤지할지 판단할 수 있습니다. 차세대 가속기 수요의 가장 직접적인 리드스루로 Nvidia를 볼 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)
 
 ---
 

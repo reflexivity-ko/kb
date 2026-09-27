@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/wealth-management-ria/precious-metals-selloff-gold-silver.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845
 -->
 
-# 귀금속 매도세 — 약세
+# 귀금속 매도세
 
 [← Wealth Management / RIA](README.md) · [전체 유스케이스](../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** Wealth Management / RIA<br>
+**인사이트 유형:** Market Catalyst<br>
+**시그널:** 약세<br>
+**날짜:** 2026-07-08
 
-> **검토용 초안** — 2026년 7월 8일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** Wealth Management / RIA  
-**인사이트 유형:** Market Catalyst  
-**시그널:** 약세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)**
 
@@ -47,8 +43,10 @@ Reflexivity는 임시 합의가 안전자산 수요를 낮추는 동시에 유�
 
 어드바이저는 출처가 포함된 고객 노트를 몇 분 안에 보내고, Franco-Nevada 같은 로열티 모델이 SSR Mining 같은 운영사보다 왜 더 잘 버텼는지 설명할 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)
 
 ---
 

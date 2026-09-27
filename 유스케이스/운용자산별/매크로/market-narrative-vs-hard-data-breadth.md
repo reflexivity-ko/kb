@@ -23,7 +23,7 @@ publication_mode: faithful-source-preserving
 **예상 이용자:** CIO, 매크로 PM, 멀티에셋 PM, 전략가  
 **분석 유형:** 내러티브 분석, 크로스에셋 분석, 시장 모니터링
 
-> 이 페이지는 과거 Reflexivity 리서치 출력을 영문 canonical 기준으로 한국어로 현지화한 것입니다. 헤드라인만으로 시장 내러티브를 받아들이지 않고 여러 증거군과 대조하는 방법을 보여주는 것이 목적입니다.
+> 이 사례는 과거 Reflexivity 리서치 출력을 보존합니다. 헤드라인만으로 시장 내러티브를 받아들이지 않고 여러 증거군과 대조하는 방법을 보여주는 것이 목적입니다.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
 

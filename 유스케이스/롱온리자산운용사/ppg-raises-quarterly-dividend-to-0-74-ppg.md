@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/long-only-asset-manager/ppg-raises-quarterly-dividend-to-0-74-ppg.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967
 -->
 
-# PPG: 분기 배당을 $0.74로 인상 (PPG) — 강세
+# PPG: 분기 배당을 $0.74로 인상 (PPG)
 
 [← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** Long-only Asset Manager<br>
+**인사이트 유형:** Company Catalyst<br>
+**시그널:** 강세<br>
+**날짜:** 2026-07-16
 
-> **검토용 초안** — 2026년 7월 16일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** Long-only Asset Manager  
-**인사이트 유형:** Company Catalyst  
-**시그널:** 강세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)**
 
@@ -47,8 +43,10 @@ Reflexivity는 이를 현금흐름에 대한 경영진의 자신감 신호로 �
 
 PM은 배당이 $0.71에서 $0.74로 인상됐고 이사회 승인, 8월 10일 기준일, 9월 11일 지급일이라는 자본배분 태도를 바로 확인해 장기 포지션 리뷰에 반영할 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---
 

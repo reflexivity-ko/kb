@@ -15,7 +15,6 @@
 - [이란 공격 시나리오의 크로스에셋 영향을 분석하기](iran-attack-cross-asset-impact.md) — `RX-USECASE-0059`
 - [오늘의 뉴스플로에서 추가 조사할 투자 아이디어 5개 만들기](newsflow-top-five-investment-ideas.md) — `RX-USECASE-0061`
 
-영문 canonical의 현재 reviewed Multi-Asset surface를 한국어로 모두 동기화했습니다. stable ID, 수치, 날짜, 한계, 출처 구분, 시나리오 불확실성을 유지합니다.
 
 ---
 

@@ -14,7 +14,6 @@
 - [미국 10년물 국채금리 5% 기준선을 지난 20년과 비교하기](us-10y-yield-5-percent-threshold.md) — RX-USECASE-0063
 - [미국 채권발행시장을 발행주체·자금용도·수급·금리로 분석하기](us-bond-issuance-market-analysis.md) — RX-USECASE-0067
 
-이 페이지들은 영문 canonical 문서를 기준으로 stable ID, 수치, 날짜, 한계, 출처 구분을 유지하면서 한국어로 현지화했습니다.
 
 ---
 

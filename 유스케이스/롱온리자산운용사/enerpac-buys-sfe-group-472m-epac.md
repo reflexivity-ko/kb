@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/long-only-asset-manager/enerpac-buys-sfe-group-472m-epac.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a
 -->
 
-# Enerpac: SFE Group을 4.72억 달러에 인수 (EPAC) — 강세
+# Enerpac: SFE Group을 4.72억 달러에 인수 (EPAC)
 
 [← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** Long-only Asset Manager<br>
+**인사이트 유형:** Company Catalyst<br>
+**시그널:** 강세<br>
+**날짜:** 2026-07-08
 
-> **검토용 초안** — 2026년 7월 8일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** Long-only Asset Manager  
-**인사이트 유형:** Company Catalyst  
-**시그널:** 강세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)**
 
@@ -47,8 +43,10 @@ Reflexivity는 이를 단기 성장 팝이 아니라 대차대조표와 신뢰�
 
 애널리스트는 이 딜이 이익에 기여하는지, 자금조달이 가능한지에 대한 준비된 관점을 얻고 여러 분기에 걸친 포지션을 위한 명확한 모니터링 계획을 세울 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)
 
 ---
 

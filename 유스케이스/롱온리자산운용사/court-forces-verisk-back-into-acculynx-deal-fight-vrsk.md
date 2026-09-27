@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/long-only-asset-manager/court-forces-verisk-back-into-acculynx-deal-fight-vrsk.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1
 -->
 
-# Verisk: 법원이 AccuLynx 딜 분쟁으로 다시 끌어들임 (VRSK) — 약세
+# Verisk: 법원이 AccuLynx 딜 분쟁으로 다시 끌어들임 (VRSK)
 
 [← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** Long-only Asset Manager<br>
+**인사이트 유형:** Company Catalyst<br>
+**시그널:** 약세<br>
+**날짜:** 2026-08-10
 
-> **검토용 초안** — 2026년 8월 10일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** Long-only Asset Manager  
-**인사이트 유형:** Company Catalyst  
-**시그널:** 약세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)**
 
@@ -47,8 +43,10 @@ Delaware Chancery 판결로 Verisk는 종료하려던 $2.35B AccuLynx 딜의 이
 
 Long-only PM은 경영진이 딜에 다시 전념할지 계속 다툴지에 대한 준비된 관점을 얻습니다. 이 딜은 Verisk를 보험 분석 핵심 사업에서 계약업체 워크플로 소프트웨어로 확장시키므로 다년 보유 판단에 중요한 입력이 됩니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)
 
 ---
 

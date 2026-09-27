@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: usecases/byasset/equities/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579
 -->
 
-# Palantir 실적 호조가 AI 소프트웨어 수요 리드스루 강화 (PLTR) — 강세
+# Palantir 실적 호조가 AI 소프트웨어 수요 리드스루 강화 (PLTR)
 
 [← 주식 유스케이스](README.md) · [운용자산별 유스케이스](../README.md) · [전체 유스케이스](../../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** 헤지펀드<br>
+**인사이트 유형:** Market Catalyst<br>
+**시그널:** 강세<br>
+**날짜:** 2026-08-04
 
-> **검토용 초안** — 2026년 8월 4일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** 헤지펀드
-**인사이트 유형:** Market Catalyst  
-**시그널:** 강세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)**
 
@@ -47,8 +43,10 @@ Reflexivity는 이를 내러티브가 아닌 지속 가능한 수요로 봅니�
 
 PM은 AI 소프트웨어 동종업체의 기준이 높아졌음을 즉시 파악하고, 다가오는 소프트웨어 실적 전 어떤 종목에 집중할지 또는 리드스루가 이미 가격에 반영됐다면 어디를 헤지할지 판단할 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)
 
 ---
 

@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/wealth-management-ria/red-sea-attack-revives-shipping-chokepoint-risk-eem.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce
 -->
 
-# 홍해 공격으로 해상 병목 위험 재부각 (EEM) — 약세
+# 홍해 공격으로 해상 병목 위험 재부각 (EEM)
 
 [← Wealth Management / RIA](README.md) · [전체 유스케이스](../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** Wealth Management / RIA<br>
+**인사이트 유형:** Market Catalyst<br>
+**시그널:** 약세<br>
+**날짜:** 2026-08-11
 
-> **검토용 초안** — 2026년 8월 11일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** Wealth Management / RIA  
-**인사이트 유형:** Market Catalyst  
-**시그널:** 약세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)**
 
@@ -47,8 +43,10 @@ Bab el-Mandeb에서 발생한 치명적 공격으로 홍해 병목 위험이 다
 
 어드바이저는 이를 원유·인플레이션 관찰 포인트로 정리한 짧은 고객 노트를 보낼 수 있습니다. EEM은 직접적인 해운 트레이드보다 광범위한 리스크 바로미터로 설명하고, 에너지 익스포저를 헤지로 제시할 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)
 
 ---
 

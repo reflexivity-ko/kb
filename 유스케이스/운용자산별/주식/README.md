@@ -36,7 +36,6 @@
 - [Instacart: Arpalus 인수로 선반 인텔리전스 강화 (CART)](instacart-buys-arpalus-to-deepen-shelf-intelligence-stack-cart.md) — `RX-USECASE-0004`
 - [Arteris / IC-Link: AI 칩 설계 (AIP)](arteris-ic-link-ai-chip-design-aip.md) — `RX-USECASE-0005`
 
-영문 canonical 문서를 기준으로 현재 검토된 주식 8개 페이지를 모두 한국어로 동기화했습니다. stable ID, 수치, 날짜, 한계, 불확실성, 출처 구분을 유지합니다.
 
 ---
 

@@ -8,7 +8,6 @@
 - [EUR/USD RSI 전략을 파라미터와 아웃오브샘플로 검증하기](eurusd-rsi-walk-forward-backtest.md) — `RX-USECASE-0037`
 - [급격한 엔화 강세의 배경과 다른 통화로의 확산 여부 분석하기](yen-strength-background-outlook.md) — `RX-USECASE-0044`
 
-이 페이지들은 영문 canonical 문서를 기준으로 stable ID, 수치, 날짜, 한계, 출처 구분을 유지하면서 한국어로 현지화했습니다.
 
 ---
 

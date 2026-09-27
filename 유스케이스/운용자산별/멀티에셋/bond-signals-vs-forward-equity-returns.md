@@ -21,7 +21,7 @@ publication_mode: faithful-source-preserving
 **예상 이용자:** 멀티에셋 PM, 퀀트, 자산배분 담당자  
 **분석 유형:** 크로스에셋 분석, 시계열 분석, 가설 검증
 
-> 이 페이지는 결론만 남기지 않고 실제 Reflexivity 리서치 출력의 논리를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 수치와 시장 관측은 원 리서치 시점의 스냅샷입니다.
+> 이 사례는 결론만 남기지 않고 실제 Reflexivity 리서치 출력의 논리를 보존합니다. 수치와 시장 관측은 원 리서치 시점의 스냅샷입니다.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
 

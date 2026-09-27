@@ -22,7 +22,7 @@ publication_mode: faithful-source-preserving
 **예상 이용자:** FX PM, 퀀트, 시스템 운용자  
 **분석 유형:** 백테스트, 워크포워드 분석, 강건성 검증
 
-> 이 페이지는 영문 canonical 문서의 Reflexivity 리서치를 한국어로 현지화한 것입니다. 수치와 시장 환경은 원 리서치 당시의 과거 스냅샷이며 현재 투자 조언이 아닙니다.
+> 이 사례의 수치와 시장 환경은 원 리서치 당시의 과거 스냅샷이며 현재 투자 조언이 아닙니다.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 

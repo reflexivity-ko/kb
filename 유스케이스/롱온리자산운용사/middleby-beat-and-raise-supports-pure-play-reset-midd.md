@@ -13,25 +13,21 @@ author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 canonical_path: use-cases/long-only-asset-manager/middleby-beat-and-raise-supports-pure-play-reset-midd.md
-status: draft
-translation_status: review-needed
+status: published
+translation_status: current
+source_url: https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b
 -->
 
-# Middleby: 실적 상회와 가이던스 상향이 pure-play 리셋을 지지 (MIDD) — 강세
+# Middleby: 실적 상회와 가이던스 상향이 pure-play 리셋을 지지 (MIDD)
 
 [← Long-only Asset Manager](README.md) · [전체 유스케이스](../README.md)
 
-<div align="right">
-작성: Reflexivity GTM Team<br>
-초안: 2026-09-07<br>
-Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-</div>
+**페르소나:** Long-only Asset Manager<br>
+**인사이트 유형:** Earnings Catalyst<br>
+**시그널:** 강세<br>
+**날짜:** 2026-08-11
 
-> **검토용 초안** — 2026년 8월 11일 시점의 플랫폼 출력입니다. 사용 전 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
-
-**페르소나:** Long-only Asset Manager  
-**인사이트 유형:** Earnings Catalyst  
-**시그널:** 강세
+> 이 예시는 특정 시점의 플랫폼 출력입니다. 현재 투자 판단에 사용하기 전에는 최신 시장 데이터와 대조하거나 설명용 사례로 활용해 주세요.
 
 **[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)**
 
@@ -47,8 +43,10 @@ Middleby는 EPS $2.35로 10.33% 상회했고 매출은 17.15% 증가한 $876M이
 
 Long-only PM은 이 하락을 자본배분 품질 점검으로 보고 pure-play 논리를 유지하거나 추가할지 판단하면서 다음 몇 분기 동안 마진 후속 흐름을 관찰할 수 있습니다.
 
-## Resource
+## 자료
 
+- **출처 자료:** Reflexivity Insights Proof Set — Sales Enablement
+- **Live Reflexivity insight:** [Reflexivity에서 이 인사이트 열기](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)
 
 ---
 
