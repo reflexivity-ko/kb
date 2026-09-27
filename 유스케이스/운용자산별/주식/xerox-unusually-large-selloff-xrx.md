@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/xerox-unusually-large-selloff-xrx.md
+canonical_path: usecases/byasset/equities/xerox-unusually-large-selloff-xrx.md
 status: draft
 translation_status: review-needed
 -->
 
 # Xerox: 이례적으로 큰 폭의 매도 (XRX) — 강세 시그널
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 이 셋업이 과거에 어떻게 전개됐는지 근거 기반으로 빠�
 
 ---
 
-[← Hedge Fund Tier 2](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
