@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 Reflexivity 리서치와 당시 관측치를 보존해 한국어로 현지화한 것입니다. 현재의 매크로 전망이 아니라 투자 가설을 검증하는 사례입니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
 
 ## 출발 질문
 
@@ -114,7 +113,6 @@ publication_mode: faithful-source-preserving
 
 수요, 노동, 심리조사, 신용, 금리를 함께 보면서 서로 충돌하는 증거를 하나의 매끄러운 이야기로 지워버리지 않고 매크로 가설을 압박 테스트하는 방법을 보여줍니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)
 
 ---
 

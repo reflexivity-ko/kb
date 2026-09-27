@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998)**
+
 ## 관련성
 
 부진한 고용지표는 고객이 당일 바로 질문하는 대표적인 톱다운 매크로 움직임이며, 금리와 달러 배경을 다시 설정합니다.
@@ -45,7 +47,6 @@ Reflexivity는 전달 경로를 보여줍니다. 7월 고용이 23,000명 감소
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=c60cffb0-8926-444e-bedd-088ede75e998)
 
 ---
 

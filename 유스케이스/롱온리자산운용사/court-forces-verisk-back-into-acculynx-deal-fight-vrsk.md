@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)**
+
 ## 관련성
 
 장기 보유의 판단이 분기 실적보다 자본배분과 포트폴리오 형태에 달린 quality compounder 사례입니다.
@@ -45,7 +47,6 @@ Long-only PM은 경영진이 딜에 다시 전념할지 계속 다툴지에 대�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=26e90af4-a5f3-4b3e-944b-588507c022a1)
 
 ---
 

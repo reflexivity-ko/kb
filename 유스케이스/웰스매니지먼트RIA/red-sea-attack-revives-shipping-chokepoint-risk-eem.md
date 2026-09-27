@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)**
+
 ## 관련성
 
 Bab el-Mandeb에서 발생한 치명적 공격으로 홍해 병목 위험이 다시 부각되며 에너지·운임·보험 비용을 끌어올리고, 원유 수입 의존도와 무역 민감도가 높은 신흥국에 압박을 줍니다. EEM은 약 $65.62(+0.69%)로 유동성 높은 심리 지표 역할을 했습니다.
@@ -45,7 +47,6 @@ Bab el-Mandeb에서 발생한 치명적 공격으로 홍해 병목 위험이 다
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=887570bf-d204-467d-a72e-050fd3e96dce)
 
 ---
 

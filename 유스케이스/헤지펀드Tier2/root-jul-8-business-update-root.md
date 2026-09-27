@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Earnings Catalyst  
 **시그널:** 중립
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)**
+
 ## 관련성
 
 가이던스 수정으로 주가가 19% 상승한 상황에서 PM은 이 움직임이 실제로 근거가 있는지 빠르게 판단해야 합니다.
@@ -45,7 +47,6 @@ PM은 확인되지 않은 상승을 추격하지 않도록 안내받습니다. �
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=0f64c0ff-bc65-4ff1-a313-fca5ad8e916b)
 
 ---
 

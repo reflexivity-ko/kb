@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Earnings Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)**
+
 ## 관련성
 
 장기 보유 판단이 헤드라인 실적 상회보다 자본배분과 마진 실행에 달린 quality compounder 사례입니다.
@@ -45,7 +47,6 @@ PM은 $2.1B 자유현금흐름, 2.7x 순레버리지, Jetro 딜 등 자본배분
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=5f4fe1ef-07db-480b-955d-7f145a8cf723)
 
 ---
 

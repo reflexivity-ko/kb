@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e)**
+
 ## 관련성
 
 포드 PM은 혼잡한 반도체 북 전반에서 빠르고 검증 가능한 반응이 필요하며, 이 세그먼트에서 실시간 푸시 알림이 중요한 이유를 보여주는 사례입니다.
@@ -45,7 +47,6 @@ PM은 대체 위험이 고멀티플 merchant GPU에 집중되는 반면, 다각�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=a1e9e6f4-4865-499f-bdba-4afbf73fe75e)
 
 ---
 

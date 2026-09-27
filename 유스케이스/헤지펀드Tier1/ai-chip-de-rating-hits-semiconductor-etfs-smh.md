@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)**
+
 ## 관련성
 
 대표 기업들이 실적을 상회해도 반도체 그룹 전체가 디레이팅될 때 포드 PM은 혼잡한 반도체 북 전반을 빠르고 감사 가능한 방식으로 읽어야 합니다.
@@ -45,7 +47,6 @@ TSMC의 이익 77% 증가와 ASML의 가이던스 상향에도 그룹 하락이 
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=0474081c-861c-4cde-b075-59834514aba0)
 
 ---
 

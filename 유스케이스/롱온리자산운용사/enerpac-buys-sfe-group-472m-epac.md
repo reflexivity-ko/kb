@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)**
+
 ## 관련성
 
 이 딜은 FY2027 Q1에 종결되는 느린 펀더멘털 이벤트로, 인내심 있는 buy-and-hold 시간축에 적합합니다.
@@ -45,7 +47,6 @@ Reflexivity는 이를 단기 성장 팝이 아니라 대차대조표와 신뢰�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=b399a5e0-60b3-4bec-ab37-75b77577727a)
 
 ---
 

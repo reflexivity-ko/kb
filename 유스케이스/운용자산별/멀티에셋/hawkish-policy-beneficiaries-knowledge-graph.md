@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 실제 Reflexivity 리서치 출력의 구조와 한계를 영문 canonical 기준으로 한국어로 현지화한 것입니다. Graph 연결이 곧바로 기업 이익 민감도를 뜻한다고 주장하는 것이 아니라, 거시 관점을 다음 리서치 대상 유니버스로 바꾸는 방법을 보여주는 것이 목적입니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
 
 ## 조사 질문
 
@@ -88,7 +87,6 @@ Graph나 Sankey의 링크 폭은 **현금흐름, 이익 민감도, 기대수익�
 
 거시 정책 관점을 전달채널 → 섹터 → 개별 기업의 구조화된 연결로 바꾼 뒤, 그 후보를 더 깊은 펀더멘털 리서치로 넘기는 방법을 보여줍니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

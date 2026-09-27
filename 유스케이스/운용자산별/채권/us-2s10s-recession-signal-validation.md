@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 과거 Reflexivity 리서치 출력과 그 한계를 그대로 보존해 한국어로 현지화한 것입니다. 원 자료의 한 통계는 재검증이 필요한 것으로 보이므로, 아래 결과를 독립적으로 검증된 역사적 사실로 취급해서는 안 됩니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)**
 
 ## 조사 질문
 
@@ -79,7 +78,6 @@ publication_mode: faithful-source-preserving
 
 자동화된 가설 검증의 가치와 한계를 동시에 보여줍니다. Reflexivity는 역사적 테스트를 구조화하고 오탐을 드러낼 수 있지만, 놀라운 통계가 나오면 분석가가 데이터 정의를 확인하고 재검증해야만 확립된 증거로 사용할 수 있습니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=5c412f9a-ea78-4c81-8911-f0419ddeefd8&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

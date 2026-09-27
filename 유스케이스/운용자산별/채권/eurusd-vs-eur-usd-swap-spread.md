@@ -16,6 +16,8 @@ publication_mode: faithful-source-preserving
 **저자:** Reflexivity Research  
 **주요 운용자산:** 채권, 금리, FX, 멀티에셋
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)**
+
 ## 조사 질문
 
 EUR/USD의 움직임과 EUR 스왑·USD 스왑의 금리차 움직임을 비교하고, 환율 변화가 상대금리 가격 변화와 어떻게 대응하는지 확인합니다.
@@ -37,7 +39,6 @@ EUR/USD 움직임을 중앙은행 헤드라인이나 매크로 서사만으로 �
 
 금리 운용자에게는 스왑 가격 변화를 환율시장과 연결해 보는 방법이고, 멀티에셋 투자자에게는 하나의 매크로 가설을 서로 다른 두 시장 표현에서 검증하는 간결한 예입니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=13b510d0-1f45-45bd-bbbf-c2c978fd3b9a&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

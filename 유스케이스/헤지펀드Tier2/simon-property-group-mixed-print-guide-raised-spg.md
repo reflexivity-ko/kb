@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Earnings Catalyst  
 **시그널:** 중립
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)**
+
 ## 관련성
 
 Tier 2 PM은 헤드라인과 운영지표가 엇갈리는 대형 REIT 실적을 빠르게 해석해 포지션 규모를 정해야 합니다.
@@ -45,7 +47,6 @@ PM은 가이던스 상향과 자본환원—배당 4.7% 인상해 $2.25, 자사�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=c2e84322-21f6-47be-b74e-b67101f8f052)
 
 ---
 

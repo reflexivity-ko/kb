@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Scenario Insight  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)**
+
 ## 관련성
 
 뉴스 이벤트가 아니라 Xerox에서 방금 이례적으로 큰 폭의 매도세가 발생했음을 알려주는 시스템적 시그널입니다.
@@ -45,7 +47,6 @@ PM은 이 셋업이 과거에 어떻게 전개됐는지 근거 기반으로 빠�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=xrx_nasd&activeInsight=e01d491b-c454-4e05-81be-bcaa9947735c)
 
 ---
 

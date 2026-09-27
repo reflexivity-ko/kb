@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 이 원자료는 전체 최초 리서치 패키지가 아니라, 앞선 출력의 일부 표시와 판단 로직이 맞지 않았던 부분을 수정한 후속 자료입니다. 공개 페이지는 제공되지 않은 앞선 결과를 재구성하지 않고 실제로 제공된 수정 표와 판단 로직만 보존합니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
 
 ## 이 자료가 수정한 것
 
@@ -73,7 +72,6 @@ publication_mode: faithful-source-preserving
 
 표시 로직과 경제적 의미가 맞지 않을 때 리서치가 자신의 출력을 수정하는 과정을 보여줍니다. 재사용 가능한 순서는 **과거 위치 → 캐리/롤다운 → 통합 트레이드 판단 → 구성요소가 헤드라인 신호를 지지하지 않을 때 수정**입니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

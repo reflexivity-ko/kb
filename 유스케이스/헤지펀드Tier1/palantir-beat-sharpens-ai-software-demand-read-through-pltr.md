@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)**
+
 ## 관련성
 
 포드 PM은 Palantir의 실적이 개별 종목 특수 요인인지 그룹 전체의 AI 소프트웨어 수요 신호인지 빠르게 판단해야 합니다.
@@ -45,7 +47,6 @@ PM은 AI 소프트웨어 동종업체의 기준이 높아졌음을 즉시 파악
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=2b32e10c-7ca1-49ee-b740-2bda079f6579)
 
 ---
 

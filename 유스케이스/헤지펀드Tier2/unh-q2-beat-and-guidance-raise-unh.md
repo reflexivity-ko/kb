@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Earnings Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)**
+
 ## 관련성
 
 대형주의 beat-and-raise는 전체 북에 영향을 주며, Tier 2 PM은 이 실적이 투자 논리를 바꾸는지 단순히 주가 흐름만 바꾸는지 빠르게 판단해야 합니다.
@@ -45,7 +47,6 @@ PM은 Q2 EPS $6.38 vs $4.85 예상, 매출 $112.03B vs $110.81B, 2026 EPS 가이
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=281b5785-16b7-4f17-a5ae-621b8b3ec534)
 
 ---
 

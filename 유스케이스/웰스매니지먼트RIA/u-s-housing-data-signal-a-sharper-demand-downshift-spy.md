@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)**
+
 ## 관련성
 
 매크로 수요 둔화는 리서치 데스크가 없는 어드바이저가 당일 고객 질문에 답해야 하는 전형적인 톱다운 신호입니다.
@@ -45,7 +47,6 @@ Reflexivity는 이를 단일 데이터 포인트가 아니라 주택 관련 경�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=b01d801f-2ef6-4cdd-bce3-3be908a48401)
 
 ---
 

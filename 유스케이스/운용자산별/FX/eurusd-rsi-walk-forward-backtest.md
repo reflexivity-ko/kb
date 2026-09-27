@@ -22,8 +22,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 Reflexivity 리서치를 한국어로 현지화한 것입니다. 수치와 시장 환경은 원 리서치 당시의 과거 스냅샷이며 현재 투자 조언이 아닙니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
 
 ## 조사 목적
 
@@ -97,7 +96,6 @@ EUR/USD 현물을 대상으로 RSI만을 신호로 사용하는 2년 평균회�
 
 질문, 테스트 설계, 파라미터 탐색, 아웃오브샘플 반증, 한계, 그리고 무엇이 유지되지 않았는지에 대한 해석까지 포함한 재사용 가능한 리서치 과정을 보여줍니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)
 
 ---
 

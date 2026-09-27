@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 과거 Reflexivity 리서치 출력을 영문 canonical 기준으로 한국어로 현지화한 것입니다. 헤드라인만으로 시장 내러티브를 받아들이지 않고 여러 증거군과 대조하는 방법을 보여주는 것이 목적입니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
 
 ## 조사 질문
 
@@ -97,7 +96,6 @@ publication_mode: faithful-source-preserving
 
 서로 독립적인 여러 증거군에서 내러티브의 폭을 측정하고, 강한 헤드라인 환경이 시장 내부나 경제 전반의 확인으로 이어지지 않는 상황을 찾는 방법을 보여줍니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)
 
 ---
 

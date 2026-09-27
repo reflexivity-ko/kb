@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Earnings Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)**
+
 ## 관련성
 
 대형주의 beat-and-raise는 전체 북에 영향을 주기 때문에 Tier 2 PM은 논점이 수요에서 지속성으로 이동하는지 빠르게 읽어야 합니다.
@@ -45,7 +47,6 @@ PM은 실적 발표 후 주가가 7.6% 오른 상태에서 상향분을 기준�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=601e0300-50c3-4ed9-900c-82627746f1ec)
 
 ---
 

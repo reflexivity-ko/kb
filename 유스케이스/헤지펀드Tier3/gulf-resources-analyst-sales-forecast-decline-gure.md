@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Scenario Insight  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)**
+
 ## 관련성
 
 커버리지가 부족한 마이크로캡에서 솔로 PM이 빠르게 포지션 규모를 판단해야 하는 전형적인 시그널입니다. 애널리스트 매출 전망이 낮아지는 가운데 GURE는 약 $2.85에 거래됐고 당일 6.86% 하락했습니다.
@@ -45,7 +47,6 @@ PM은 전망 하향 국면에서 역발상 매수 또는 숏 여부를 판단하
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/stream/focus?activeDrawer=insights&entityTag=gure_nasd&activeInsight=1d6ec2d3-63bf-438b-b8bd-1b214f8f19af)
 
 ---
 

@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Scenario Insight  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)**
+
 ## 관련성
 
 커버리지가 부족한 소형주에서 솔로 창업자 PM이 큰 폭의 하락 이후 의미를 스스로 정량화하기 어려운 전형적인 사례입니다.
@@ -45,7 +47,6 @@ PM은 몇 분 안에 투자 논리를 점검할 수 있습니다. 과거 분포�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=a5e0b764-a45f-4f90-a3be-ad2c9109f241)
 
 ---
 

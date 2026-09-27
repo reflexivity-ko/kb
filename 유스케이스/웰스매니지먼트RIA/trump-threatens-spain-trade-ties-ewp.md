@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Geopolitical Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)**
+
 ## 관련성
 
 특정 국가를 겨냥한 무역 위협은 고객과 PM에게 유럽 익스포저가 위험한지 즉시 묻게 합니다.
@@ -45,7 +47,6 @@ Reflexivity는 수사와 정책을 분리합니다. 이를 확정된 무역정�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=0095138f-af96-497a-aea3-d463433a76b2)
 
 ---
 

@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 중립
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)**
+
 ## 관련성
 
 전국 출시 당일 주가가 14.75% 하락해 $6.36이 된 것처럼, 커버리지가 부족한 소형주의 제품 촉매는 솔로 PM이 빠르게 평가해야 합니다.
@@ -45,7 +47,6 @@ PM은 몇 분 안에 투자 논리를 점검하고 매도세에 역행할지 기
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=f045e1af-ddc4-4f13-8d2c-6ccf806a49f1)
 
 ---
 

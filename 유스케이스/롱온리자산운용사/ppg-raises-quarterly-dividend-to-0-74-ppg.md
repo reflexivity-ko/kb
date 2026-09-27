@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)**
+
 ## 관련성
 
 배당 인상은 하루짜리 주가 움직임보다 지속 가능한 자본환원을 중시하는 quality-focused buy-and-hold mandate에 적합한, 노이즈가 적은 신호입니다.
@@ -45,7 +47,6 @@ PM은 배당이 $0.71에서 $0.74로 인상됐고 이사회 승인, 8월 10일 �
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=244bc038-44f5-4292-93b3-def717033967)
 
 ---
 

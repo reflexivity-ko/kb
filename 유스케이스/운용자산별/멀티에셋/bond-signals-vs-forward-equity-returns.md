@@ -21,8 +21,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 결론만 남기지 않고 실제 Reflexivity 리서치 출력의 논리를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 수치와 시장 관측은 원 리서치 시점의 스냅샷입니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
 
 ## 실제로 검증한 것
 
@@ -69,7 +68,6 @@ publication_mode: faithful-source-preserving
 
 크로스에셋 직관을 측정 가능한 테스트로 바꾸고, 현재 관측치를 역사적 맥락에 놓은 뒤, 관계가 실제로 다음 단계에서 사용할 만큼 강한지 평가하는 방법을 보여줍니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

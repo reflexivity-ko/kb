@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)**
+
 ## 관련성
 
 소규모 AI 볼트온 인수는 솔로 창업자 PM이 아니면 여러 자료를 직접 조합해야 하는, 커버리지가 부족한 움직임의 전형입니다.
@@ -45,7 +47,6 @@ PM은 타깃 Arpalus, 선반 인텔리전스 활용, 95% 초과라고 주장된 
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=0b72cda9-18ac-423b-86d4-8b04b7fe2394)
 
 ---
 

@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Earnings Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)**
+
 ## 관련성
 
 Cardinal Health는 EPS $2.91로 컨센서스를 20.25% 상회했고 FY2027 가이던스도 컨센서스보다 높았습니다. 주가는 8월 7일 종가 이후 3.16% 상승했습니다.
@@ -45,7 +47,6 @@ Cardinal Health는 EPS $2.91로 컨센서스를 20.25% 상회했고 FY2027 가�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=f8a6a84d-9e28-4a75-9a66-b6c151be8bf7)
 
 ---
 

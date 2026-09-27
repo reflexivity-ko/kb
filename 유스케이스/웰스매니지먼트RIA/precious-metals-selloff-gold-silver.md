@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)**
+
 ## 관련성
 
 금 매도세는 리서치 팀이 없는 어드바이저도 같은 날 빠르게 답해야 하는 고객 질문을 대량으로 촉발합니다.
@@ -45,7 +47,6 @@ Reflexivity는 임시 합의가 안전자산 수요를 낮추는 동시에 유�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=5999b612-16b0-4475-ad47-8cf24a5ac845)
 
 ---
 

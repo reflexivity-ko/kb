@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 약세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)**
+
 ## 관련성
 
 포드 PM은 정책 헤드라인이 반도체 전반의 디레이팅인지 단일 종목 이벤트인지 빠르게 읽어야 합니다.
@@ -45,7 +47,6 @@ PM은 움직임이 개별 종목이 아니라 광범위하다는 점을 즉시 �
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=a78d51aa-a1b4-45bf-8174-a0e1e59963ca)
 
 ---
 

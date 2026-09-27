@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 리서치 논리와 당시 시장 관측치를 보존해 한국어로 현지화한 것입니다. 수치와 시장 환경은 원 리서치 당시의 스냅샷이며 현재 투자 조언이 아닙니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
 
 ## 조사 목적
 
@@ -136,7 +135,6 @@ FX 관점을 한 가지 지표에만 고정하면 판단이 왜곡될 수 있습
 
 최종 방향성만이 아니라, 시작 질문, 데이터 층위, 지지·반증 증거, 명시적 가정, 시나리오, 관점을 바꾸는 조건까지 포함한 재사용 가능한 리서치 과정을 보여줍니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

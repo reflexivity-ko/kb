@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)**
+
 ## 관련성
 
 솔로 창업자 PM이 자체적으로 조사하기 어려운, 커버리지가 부족한 소형주의 전형적인 사례입니다.
@@ -45,7 +47,6 @@ PM은 몇 분 안에 차별화된 소형주 관점을 만들 수 있고, 투자 
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=c91f4ed8-e44b-4520-87d4-596f49b66cfe)
 
 ---
 

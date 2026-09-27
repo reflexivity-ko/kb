@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Market Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)**
+
 ## 관련성
 
 미국 제조업 지표의 개선은 어드바이저가 당일 바로 답해야 하는 톱다운 질문을 촉발하는 대표적인 신호입니다.
@@ -45,7 +47,6 @@ ISM Manufacturing은 컨센서스 52.8 대비 53.3을 기록했고 신규주문�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=b7af02d1-ea54-4fa7-8915-37c6337f4488)
 
 ---
 

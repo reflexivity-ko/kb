@@ -15,6 +15,8 @@ source_text_status: localized_from_en_canonical
 **저자:** Reflexivity Research  
 **주요 운용자산:** 멀티에셋, 매크로, 주식, 채권
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)**
+
 ## 리서치 질문
 
 하루의 뉴스를 읽고, 추가로 조사할 가치가 있는 투자 아이디어 다섯 개로 압축합니다.
@@ -42,7 +44,6 @@ source_text_status: localized_from_en_canonical
 
 핵심은 **우선순위화**입니다. 모든 헤드라인을 같은 중요도로 다루는 대신, 다음 단계에서 조사할 관리 가능한 수의 질문으로 압축합니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?mode=research&conversationId=98829b32-be9b-4e02-8064-0901c5b6d28b&scrollTo=top)
 
 ---
 

@@ -23,8 +23,7 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 Reflexivity 리서치와 당시 시장 관측치를 보존해 한국어로 현지화한 것입니다. 아래의 트레이드와 가격 수준은 과거 리서치 출력이며 현재 추천이 아닙니다.
 
-
-**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
 
 ## 조사 출발점
 
@@ -96,7 +95,6 @@ EUR/USD, EUR/CHF, EUR/JPY 숏을 후보로 제시하고, 손실을 제한하기 
 
 관찰된 국채-크레딧 이상 현상에서 출발해 금리, 크레딧, FX, 주식, 변동성, 베이시스 시장의 여러 표현으로 확장하면서, 각 표현의 실패 조건까지 함께 유지하는 리서치 과정을 보여줍니다.
 
-[Reflexivity에서 열기](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)
 
 ---
 

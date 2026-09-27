@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)**
+
 ## 관련성
 
 Nvidia는 Apollo, BlackRock, Blackstone, Brookfield와 5,000억 달러 규모의 AI 인프라 자금조달 이니셔티브를 발표해 Nvidia 컴퓨트 및 AI 구축을 위한 자본 풀 조성 계획을 제시했습니다. 주가는 1.88% 상승했습니다.
@@ -45,7 +47,6 @@ Nvidia는 Apollo, BlackRock, Blackstone, Brookfield와 5,000억 달러 규모의
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=37ec34a5-3c1d-40cc-b7de-76ea7f842999)
 
 ---
 

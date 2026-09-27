@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Earnings Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)**
+
 ## 관련성
 
 Middleby는 EPS $2.35로 10.33% 상회했고 매출은 17.15% 증가한 $876M이었습니다. 그러나 Food Processing 분리 이후 8월 7일 종가 대비 주가는 8.59% 하락했습니다.
@@ -45,7 +47,6 @@ Long-only PM은 이 하락을 자본배분 품질 점검으로 보고 pure-play 
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=2eec06f6-3e35-4c79-b5ac-06c25801084b)
 
 ---
 

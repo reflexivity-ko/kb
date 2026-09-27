@@ -31,6 +31,8 @@ Resource: Reflexivity Insights Proof Set — Sales Enablement.docx
 **인사이트 유형:** Company Catalyst  
 **시그널:** 강세
 
+**[Reflexivity에서 이 리서치 예제를 열기 →](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)**
+
 ## 관련성
 
 Tier 2 PM은 전체 북의 촉매를 따라가기 어렵고 이런 종류의 딜은 놓치기 쉽습니다.
@@ -45,7 +47,6 @@ PM은 데이터센터와 전력 인프라 확장 테마를 빠르게 구성하�
 
 ## Resource
 
-[Live Reflexivity Insight 열기](https://reflexivity.com/app/kg-insight?insightId=f2915fc1-f1a7-452d-a550-b043d4be1b8b)
 
 ---
 
