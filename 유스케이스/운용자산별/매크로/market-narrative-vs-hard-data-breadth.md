@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 과거 Reflexivity 리서치 출력을 영문 canonical 기준으로 한국어로 현지화한 것입니다. 헤드라인만으로 시장 내러티브를 받아들이지 않고 여러 증거군과 대조하는 방법을 보여주는 것이 목적입니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=e8b51919-b5fa-4222-b350-d41f1049c62e&scrollTo=top)**
+
 ## 조사 질문
 
 **“미국 경제가 강하다”는 내러티브가 폭넓은 증거로 지지되는가, 아니면 소수의 강한 헤드라인 관측치가 이야기를 끌고 가는가?**

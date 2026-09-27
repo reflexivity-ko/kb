@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 리서치 논리와 당시 시장 관측치를 보존해 한국어로 현지화한 것입니다. 수치와 시장 환경은 원 리서치 당시의 스냅샷이며 현재 투자 조언이 아닙니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=dec65b17-3831-4913-a3f0-bf988fd5c238&mode=research&activeHistorySidebarCategory=all)**
+
 ## 조사 목적
 
 원 리서치는 단순히 “EUR/USD를 조사해 달라”고 묻지 않습니다. PM이 반복해서 점검해야 할 질문을 **재사용 가능한 체크리스트**로 만들어, 시간이 지나도 같은 의사결정 과정을 다시 실행할 수 있게 합니다. 원 리서치의 마지막 업데이트 시점은 **2025-08-28**입니다.

@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 Reflexivity 리서치와 당시 시장 관측치를 보존해 한국어로 현지화한 것입니다. 아래의 트레이드와 가격 수준은 과거 리서치 출력이며 현재 추천이 아닙니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=62abd0eb-38bd-4d1d-87b7-035405f55d14&mode=research&activeHistorySidebarCategory=all)**
+
 ## 조사 출발점
 
 원 리서치는 프랑스 국채 금리와 우량 프랑스 회사채 금리 사이에 이례적인 관계가 나타나고 정치적 위험도 높아진 상황에서 시작합니다. 질문은 이 왜곡이 의미 있는지에 그치지 않고, **그 관점을 여러 시장에서 어떻게 표현할 수 있는가**까지 확장됩니다.

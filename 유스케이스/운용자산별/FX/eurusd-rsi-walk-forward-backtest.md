@@ -22,6 +22,9 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 Reflexivity 리서치를 한국어로 현지화한 것입니다. 수치와 시장 환경은 원 리서치 당시의 과거 스냅샷이며 현재 투자 조언이 아닙니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=ad0d9afd-4ff6-4197-9bee-7075996df654&scrollTo=top)**
+
 ## 조사 목적
 
 RSI 전략은 과거 데이터를 본 뒤 특정 기간이나 임계값을 골라내면 매우 좋아 보일 수 있습니다. 따라서 하나의 “최적 파라미터”만으로는 전략에 반복 가능한 엣지가 있는지, 아니면 표본에 과최적화된 것인지 알 수 없습니다.

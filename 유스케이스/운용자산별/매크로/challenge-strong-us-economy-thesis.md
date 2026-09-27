@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 영문 canonical 문서의 Reflexivity 리서치와 당시 관측치를 보존해 한국어로 현지화한 것입니다. 현재의 매크로 전망이 아니라 투자 가설을 검증하는 사례입니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?mode=research&conversationId=4fa62dde-58f4-4b3b-b433-837634dc84fb&scrollTo=top)**
+
 ## 출발 질문
 
 리서치는 “미국 경제가 강하다”는 헤드라인 관점을 지지하는 자료를 모으는 데서 시작하지 않습니다. 대신 **그 관점이 어디에서 무너지기 시작하는지**를 묻습니다.

@@ -23,6 +23,9 @@ publication_mode: faithful-source-preserving
 
 > 이 원자료는 전체 최초 리서치 패키지가 아니라, 앞선 출력의 일부 표시와 판단 로직이 맞지 않았던 부분을 수정한 후속 자료입니다. 공개 페이지는 제공되지 않은 앞선 결과를 재구성하지 않고 실제로 제공된 수정 표와 판단 로직만 보존합니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=7a3cccb2-8503-4530-b85b-34386f208480&mode=research&activeHistorySidebarCategory=all)**
+
 ## 이 자료가 수정한 것
 
 이전 출력에서는 일부 트레이드 라벨과 기초 판단 로직 사이에 불일치가 있었습니다. 이 후속 자료는 그 불일치를 수정합니다.

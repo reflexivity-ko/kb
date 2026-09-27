@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 실제 Reflexivity 리서치 출력의 구조와 한계를 영문 canonical 기준으로 한국어로 현지화한 것입니다. Graph 연결이 곧바로 기업 이익 민감도를 뜻한다고 주장하는 것이 아니라, 거시 관점을 다음 리서치 대상 유니버스로 바꾸는 방법을 보여주는 것이 목적입니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=9e6182f9-1853-4fdd-8ec4-f5b2a42fcfab&mode=research&activeHistorySidebarCategory=all)**
+
 ## 조사 질문
 
 “매파적 정책은 금리를 올린다”에서 멈추지 않고, 리서치는 세 단계로 아이디어를 추적합니다.

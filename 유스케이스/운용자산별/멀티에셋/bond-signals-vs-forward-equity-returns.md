@@ -21,6 +21,9 @@ publication_mode: faithful-source-preserving
 
 > 이 페이지는 결론만 남기지 않고 실제 Reflexivity 리서치 출력의 논리를 영문 canonical 기준으로 한국어로 현지화한 것입니다. 수치와 시장 관측은 원 리서치 시점의 스냅샷입니다.
 
+
+**[Reflexivity에서 원본 리서치 열기 →](https://app.reflexivity.com/app/alfred?conversationId=1ae89f55-bd78-4dfe-a303-65f8d4843d05&mode=research&activeHistorySidebarCategory=all)**
+
 ## 실제로 검증한 것
 
 질문은 채권시장의 특정 스프레드가 크게 움직였을 때 이후 S&P 500 수익률에 일정한 패턴이 나타나는지였습니다.
