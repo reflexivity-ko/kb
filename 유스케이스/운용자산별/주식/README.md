@@ -13,6 +13,9 @@
 - [미국 소매업체 실적주간을 리서치 워크플로로 만들기](us-retail-earnings-calendar-workflow.md) — `RX-USECASE-0056`
 - [Company Catalyst로 NVIDIA 관련 뉴스의 시장 영향을 추적하기](company-catalyst-nvidia-example.md) — `RX-USECASE-0057`
 
+- [Magnificent Seven의 재무여력과 금리 내성을 비교하기](magnificent-seven-financial-comparison.md) — RX-USECASE-0064
+- [상승한 미국 종목에서 관련 일본 기업을 찾기](rising-us-stocks-related-japanese-companies.md) — RX-USECASE-0065
+
 ## 헤지펀드 proof-set 사례
 
 - [Nvidia: 5,000억 달러 AI 인프라 자금조달 구상 (NVDA)](nvidia-launches-500b-ai-infrastructure-funding-push-nvda.md) — `RX-USECASE-0019`

@@ -12,6 +12,8 @@
 - [Market Catalyst로 Beige Book을 우선순위화해 읽기](beige-book-market-catalyst-workflow.md) — `RX-USECASE-0049`
 - [Jackson Hole 연설 시나리오와 시장 반응을 사전에 구조화하기](jackson-hole-scenario-analysis.md) — `RX-USECASE-0060`
 
+- [미중 정상회담 전후 S&P 500 움직임을 살펴보기](us-china-summit-sp500-impact.md) — RX-USECASE-0066
+
 ## 관련 크로스에셋 유스케이스
 
 본문은 다른 자산군에 하나만 두고 여기서는 링크합니다.
