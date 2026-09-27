@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-3/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md
+canonical_path: usecases/byasset/equities/acv-rolls-out-viper-nationwide-for-dealer-sourcing-acva.md
 status: draft
 translation_status: review-needed
 -->
 
 # ACV: VIPER 전국 출시로 딜러 소싱 확대 (ACVA) — 중립
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 몇 분 안에 투자 논리를 점검하고 매도세에 역행할지 기
 
 ---
 
-[← Hedge Fund Tier 3](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
