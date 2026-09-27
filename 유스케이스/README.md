@@ -7,9 +7,7 @@ Reflexivity의 실제 사례를 **페르소나별**, **인사이트 유형별**,
 ## 페르소나별
 
 - [Wealth Management / RIA](웰스매니지먼트RIA/) — 6건
-- [Hedge Fund Tier 3 (소규모·신생)](헤지펀드Tier3/) — 5건
-- [Hedge Fund Tier 2](헤지펀드Tier2/) — 7건
-- [Hedge Fund Tier 1](헤지펀드Tier1/) — 5건
+- [헤지펀드](헤지펀드/) — 17건; Tier 1 / 2 / 3은 대상 사용자 분류로 표시
 - [Long-only Asset Manager](롱온리자산운용사/) — 5건
 
 ## 인사이트 유형별
