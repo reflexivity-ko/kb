@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-1/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md
+canonical_path: usecases/byasset/equities/palantir-beat-sharpens-ai-software-demand-read-through-pltr.md
 status: draft
 translation_status: review-needed
 -->
 
 # Palantir 실적 호조가 AI 소프트웨어 수요 리드스루 강화 (PLTR) — 강세
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 AI 소프트웨어 동종업체의 기준이 높아졌음을 즉시 파악
 
 ---
 
-[← Hedge Fund Tier 1](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
