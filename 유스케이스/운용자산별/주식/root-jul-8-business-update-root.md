@@ -12,12 +12,14 @@ revised:
 author: Reflexivity GTM Team
 service_version:
 resource: Reflexivity Insights Proof Set — Sales Enablement.docx
-canonical_path: use-cases/hedge-fund-tier-2/root-jul-8-business-update-root.md
+canonical_path: usecases/byasset/equities/root-jul-8-business-update-root.md
 status: draft
 translation_status: review-needed
 -->
 
 # Root: 7월 8일 사업 업데이트 (ROOT) — 중립
+
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 <div align="right">
 작성: Reflexivity GTM Team<br>
@@ -50,6 +52,6 @@ PM은 확인되지 않은 상승을 추격하지 않도록 안내받습니다. �
 
 ---
 
-[← Hedge Fund Tier 2](README.md) · [← 전체 유스케이스](../README.md)
+[← 주식 유스케이스](README.md) · [전체 유스케이스](../../README.md)
 
 문의 사항이나 추가 정보가 필요하면 **gtm@reflexivity.com**으로 연락해 주세요.
